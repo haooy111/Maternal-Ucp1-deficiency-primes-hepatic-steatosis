@@ -1,0 +1,789 @@
+id	SPOT	Profile	WT	UCP1KO	WT-Pregnant	UCP1KO-Pregnant	WT_tpm	WT-Pregnant_tpm	UCP1KO_tpm	UCP1KO-Pregnant_tpm	Symbol	KEGG_A_class	KEGG_B_class	K_ID	TF_family
+ENSMUSG00000000078	ID_0	7	0.00	-0.34	-1.16	-1.11	3.247	1.458	2.573	1.505	Klf6	-	-	-	zf-C2H2
+ENSMUSG00000000167	ID_1	7	0.00	-0.83	-1.95	-1.72	0.660	0.171	0.371	0.200	Pih1d2	-	-	-	--
+ENSMUSG00000000168	ID_2	7	0.00	-0.20	-1.01	-1.07	16.160	8.015	14.029	7.673	Dlat	Metabolism;Metabolism;Metabolism;Metabolism;Metabolism	Global and overview maps;Global and overview maps;Carbohydrate metabolism;Carbohydrate metabolism;Carbohydrate metabolism	K00627;K00627;K00627;K00627;K00627	--
+ENSMUSG00000000171	ID_3	7	0.00	0.05	-1.44	-1.24	232.517	85.734	240.772	98.761	Sdhd	Metabolism;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Human Diseases;Human Diseases;Human Diseases;Metabolism;Metabolism;Metabolism	Global and overview maps;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Environmental adaptation;Cancer: overview;Cardiovascular disease;Endocrine and metabolic disease;Energy metabolism;Global and overview maps;Carbohydrate metabolism	K00237;K00237;K00237;K00237;K00237;K00237;K00237;K00237;K00237;K00237;K00237;K00237;K00237;K00237	--
+ENSMUSG00000000440	ID_4	7	0.00	-0.12	-1.20	-1.71	8.603	3.743	7.915	2.621	Pparg	Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Human Diseases;Human Diseases;Organismal Systems;Environmental Information Processing;Organismal Systems;Organismal Systems;Human Diseases	Cancer: overview;Cancer: overview;Neurodegenerative disease;Environmental adaptation;Cardiovascular disease;Endocrine and metabolic disease;Development and regeneration;Signal transduction;Endocrine system;Aging;Cancer: specific types	K08530;K08530;K08530;K08530;K08530;K08530;K08530;K08530;K08530;K08530;K08530	THR-like
+ENSMUSG00000000486	ID_5	7	0.00	-0.20	-1.87	-1.22	2.232	0.610	1.946	0.957	Septin1	Human Diseases	Infectious disease: bacterial	K13737	--
+ENSMUSG00000000563	ID_6	7	0.00	-0.11	-0.92	-1.09	288.441	152.107	266.499	135.367	Atp5pb	Metabolism;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Human Diseases;Human Diseases;Metabolism	Global and overview maps;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Environmental adaptation;Cancer: overview;Cardiovascular disease;Energy metabolism	K02127;K02127;K02127;K02127;K02127;K02127;K02127;K02127;K02127;K02127;K02127	--
+ENSMUSG00000000567	ID_7	7	0.00	-0.26	-1.70	-1.94	0.857	0.263	0.714	0.223	Sox9	Environmental Information Processing	Signal transduction	K18435	HMG
+ENSMUSG00000001156	ID_8	7	0.00	0.03	-1.01	-0.64	1.680	0.835	1.714	1.079	Mxd1	-	-	-	bHLH
+ENSMUSG00000001482	ID_9	7	0.00	0.57	-0.69	-0.53	14.182	8.778	21.040	9.801	Def8	-	-	-	--
+ENSMUSG00000001750	ID_10	7	0.00	-0.58	-1.37	-1.24	25.850	10.000	17.321	10.920	Tcirg1	Metabolism;Human Diseases;Human Diseases;Cellular Processes;Human Diseases;Cellular Processes;Metabolism;Organismal Systems;Human Diseases;Human Diseases;Organismal Systems	Global and overview maps;Infectious disease: viral;Infectious disease: bacterial;Transport and catabolism;Immune disease;Transport and catabolism;Energy metabolism;Nervous system;Infectious disease: bacterial;Infectious disease: bacterial;Excretory system	K02154;K02154;K02154;K02154;K02154;K02154;K02154;K02154;K02154;K02154;K02154	--
+ENSMUSG00000002233	ID_11	7	0.00	0.04	-0.85	-1.11	13.792	7.628	14.176	6.400	Rhoc	-	-	-	--
+ENSMUSG00000002308	ID_12	7	0.00	-0.55	-2.10	-1.92	8.721	2.032	5.945	2.300	Cd320	-	-	-	--
+ENSMUSG00000002343	ID_13	7	0.00	0.08	-1.32	-0.62	2.099	0.841	2.221	1.368	Armc6	-	-	-	--
+ENSMUSG00000002409	ID_14	7	0.00	0.28	-1.00	-0.43	7.098	3.539	8.622	5.265	Dyrk1b	-	-	-	--
+ENSMUSG00000002550	ID_15	7	0.00	0.14	-0.68	-0.86	22.225	13.860	24.558	12.227	Uck1	Metabolism;Metabolism;Metabolism	Global and overview maps;Xenobiotics biodegradation and metabolism;Nucleotide metabolism	K00876;K00876;K00876	--
+ENSMUSG00000002763	ID_16	7	0.00	-0.11	-1.15	-1.27	34.488	15.542	32.031	14.303	Pex6	Cellular Processes	Transport and catabolism	K13339	--
+ENSMUSG00000002769	ID_17	7	0.00	-0.25	-1.99	-1.56	3131.994	790.289	2629.148	1061.137	Gnmt	Metabolism;Metabolism	Global and overview maps;Amino acid metabolism	K00552;K00552	--
+ENSMUSG00000002803	ID_18	7	0.00	0.19	-1.14	-0.76	7.287	3.303	8.308	4.296	Btbd6	-	-	-	--
+ENSMUSG00000002814	ID_19	7	0.00	0.23	-0.75	-1.26	1.713	1.019	2.010	0.716	Top3a	Genetic Information Processing;Genetic Information Processing	Replication and repair;Replication and repair	K03165;K03165	--
+ENSMUSG00000002846	ID_20	7	0.00	-0.25	-1.19	-0.92	25.399	11.115	21.375	13.405	Timmdc1	-	-	-	--
+ENSMUSG00000002949	ID_21	7	0.00	-0.05	-0.82	-1.06	26.995	15.284	26.158	12.948	Timm44	-	-	-	--
+ENSMUSG00000003309	ID_22	7	0.00	0.22	-2.14	-1.16	0.468	0.106	0.546	0.210	Ap1m2	Human Diseases;Cellular Processes	Infectious disease: viral;Transport and catabolism	K12393;K12393	--
+ENSMUSG00000003420	ID_23	7	0.00	0.37	-0.63	-1.14	137.519	88.640	178.178	62.396	Fcgrt	-	-	-	--
+ENSMUSG00000003534	ID_24	7	0.00	0.24	-1.24	-0.71	0.945	0.400	1.113	0.577	Ddr1	-	-	-	--
+ENSMUSG00000003865	ID_25	7	0.00	0.48	-1.12	-0.59	0.533	0.246	0.743	0.355	Gys1	Metabolism;Environmental Information Processing;Human Diseases;Organismal Systems;Environmental Information Processing;Human Diseases;Organismal Systems;Metabolism	Global and overview maps;Signal transduction;Cardiovascular disease;Endocrine system;Signal transduction;Endocrine and metabolic disease;Endocrine system;Carbohydrate metabolism	K00693;K00693;K00693;K00693;K00693;K00693;K00693;K00693	--
+ENSMUSG00000004207	ID_26	7	0.00	0.46	-0.71	-0.24	192.767	118.084	264.806	163.658	Psap	Cellular Processes;Metabolism	Transport and catabolism;Lipid metabolism	K12382;K12382	--
+ENSMUSG00000004266	ID_27	7	0.00	-0.13	-1.12	-0.68	17.184	7.893	15.675	10.692	Ptpn6	Human Diseases;Organismal Systems;Human Diseases;Organismal Systems;Human Diseases;Environmental Information Processing;Organismal Systems;Human Diseases;Cellular Processes	Infectious disease: bacterial;Immune system;Cancer: overview;Immune system;Infectious disease: parasitic;Signal transduction;Immune system;Cancer: overview;Cellular community - eukaryotes	K05697;K05697;K05697;K05697;K05697;K05697;K05697;K05697;K05697	--
+ENSMUSG00000004558	ID_28	7	0.00	0.22	-1.12	-0.57	725.682	334.101	843.057	488.875	Ndrg2	-	-	-	--
+ENSMUSG00000004609	ID_29	7	0.00	0.85	-0.82	-0.93	0.250	0.142	0.450	0.131	Cd33	Organismal Systems	Immune system	K06473	--
+ENSMUSG00000004768	ID_30	7	0.00	0.04	-1.05	-1.20	1.912	0.924	1.970	0.835	Rab23	-	-	-	--
+ENSMUSG00000004951	ID_31	7	0.00	-0.04	-2.90	-2.64	25.462	3.411	24.765	4.077	Hspb1	Environmental Information Processing;Human Diseases;Environmental Information Processing	Signal transduction;Infectious disease: parasitic;Signal transduction	K04455;K04455;K04455	--
+ENSMUSG00000005320	ID_32	7	0.00	-0.21	-1.07	-0.67	11.679	5.560	10.115	7.325	Fgfr4	Human Diseases;Environmental Information Processing;Environmental Information Processing;Environmental Information Processing;Cellular Processes;Environmental Information Processing;Cellular Processes;Environmental Information Processing;Cellular Processes	Cancer: overview;Signal transduction;Signal transduction;Signal transduction;Transport and catabolism;Signal transduction;Cell motility;Signal transduction;Cellular community - eukaryotes	K05095;K05095;K05095;K05095;K05095;K05095;K05095;K05095;K05095	--
+ENSMUSG00000005442	ID_33	7	0.00	-0.02	-1.23	-1.67	10.468	4.458	10.335	3.283	Cic	Human Diseases;Environmental Information Processing	Neurodegenerative disease;Signal transduction	K20225;K20225	HMG
+ENSMUSG00000005533	ID_34	7	0.00	0.39	-2.31	-1.17	0.198	0.040	0.259	0.088	Igf1r	Human Diseases;Environmental Information Processing;Human Diseases;Environmental Information Processing;Cellular Processes;Environmental Information Processing;Environmental Information Processing;Human Diseases;Cellular Processes;Human Diseases;Environmental Information Processing;Human Diseases;Cellular Processes;Cellular Processes;Environmental Information Processing;Environmental Information Processing;Cellular Processes;Environmental Information Processing;Human Diseases;Organismal Systems;Human Diseases;Organismal Systems;Human Diseases;Human Diseases;Human Diseases;Cellular Processes;Organismal Systems;Organismal Systems;Organismal Systems	Cancer: overview;Signal transduction;Cancer: overview;Signal transduction;Transport and catabolism;Signal transduction;Signal transduction;Cancer: overview;Cellular community - eukaryotes;Cancer: specific types;Signal transduction;Cancer: specific types;Transport and catabolism;Cellular community - eukaryotes;Signal transduction;Signal transduction;Cell growth and death;Signal transduction;Cancer: specific types;Endocrine system;Drug resistance: antineoplastic;Aging;Drug resistance: antineoplastic;Cancer: specific types;Cancer: specific types;Cellular community - eukaryotes;Endocrine system;Aging;Nervous system	K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087;K05087	--
+ENSMUSG00000005566	ID_35	7	0.00	0.45	-0.58	-0.37	17.005	11.362	23.187	13.150	Trim28	-	-	-	--
+ENSMUSG00000005973	ID_36	7	0.00	0.49	-0.79	-0.77	2.356	1.366	3.312	1.384	Rcn1	-	-	-	--
+ENSMUSG00000005986	ID_37	7	0.00	0.33	-3.81	-2.35	0.602	0.043	0.755	0.118	Ankrd13d	-	-	-	--
+ENSMUSG00000006154	ID_38	7	0.00	-0.29	-3.69	-2.69	0.929	0.072	0.758	0.144	Eps8l1	-	-	-	--
+ENSMUSG00000006288	ID_39	7	0.00	-0.13	-1.25	-0.66	4.513	1.904	4.122	2.863	Ttc5	-	-	-	--
+ENSMUSG00000006445	ID_40	7	0.00	0.41	-1.01	-0.47	4.335	2.153	5.775	3.122	Epha2	Environmental Information Processing;Environmental Information Processing;Environmental Information Processing;Environmental Information Processing;Organismal Systems	Signal transduction;Signal transduction;Signal transduction;Signal transduction;Development and regeneration	K05103;K05103;K05103;K05103;K05103	--
+ENSMUSG00000006494	ID_41	7	0.00	0.13	-0.90	-0.75	23.887	12.807	26.178	14.169	Pdk1	Environmental Information Processing;Human Diseases	Signal transduction;Cancer: overview	K12077;K12077	--
+ENSMUSG00000006611	ID_42	7	0.00	0.22	-0.89	-0.43	23.436	12.655	27.260	17.437	Hfe	-	-	-	--
+ENSMUSG00000006777	ID_43	7	0.00	1.41	-2.06	-1.66	1.686	0.405	4.465	0.535	Krt23	Human Diseases;Organismal Systems	Infectious disease: bacterial;Endocrine system	K07604;K07604	--
+ENSMUSG00000007041	ID_44	7	0.00	-0.25	-1.12	-0.90	19.437	8.960	16.367	10.445	Clic1	-	-	-	--
+ENSMUSG00000007987	ID_45	7	0.00	-0.18	-1.44	-1.44	6.267	2.307	5.515	2.303	Ift22	-	-	-	--
+ENSMUSG00000008206	ID_46	7	0.00	1.44	-1.75	-1.49	0.324	0.096	0.880	0.115	Cers4	Metabolism;Environmental Information Processing;Metabolism	Global and overview maps;Signal transduction;Lipid metabolism	K24621;K24621;K24621	--
+ENSMUSG00000009145	ID_47	7	0.00	0.09	-1.83	-0.92	3.654	1.031	3.886	1.927	Dqx1	-	-	-	--
+ENSMUSG00000009633	ID_48	7	0.00	0.87	-1.77	-1.61	209.705	61.677	384.328	68.686	G0s2	-	-	-	--
+ENSMUSG00000009687	ID_49	7	0.00	-0.19	-1.11	-0.69	16.056	7.460	14.118	9.943	Fxyd5	-	-	-	--
+ENSMUSG00000009772	ID_50	7	0.00	-0.04	-1.04	-0.69	4.963	2.419	4.817	3.070	Nuak2	-	-	-	--
+ENSMUSG00000010067	ID_51	7	0.00	0.31	-1.08	-0.72	3.513	1.665	4.345	2.132	Rassf1	Human Diseases;Environmental Information Processing;Human Diseases;Environmental Information Processing;Human Diseases;Human Diseases;Environmental Information Processing	Cancer: overview;Signal transduction;Cancer: overview;Signal transduction;Cancer: specific types;Cancer: specific types;Signal transduction	K09850;K09850;K09850;K09850;K09850;K09850;K09850	--
+ENSMUSG00000010651	ID_52	7	0.00	0.50	-1.99	-3.52	799.451	200.828	1132.309	69.540	Acaa1b	Metabolism;Organismal Systems;Cellular Processes;Metabolism;Metabolism;Metabolism;Metabolism;Metabolism	Global and overview maps;Endocrine system;Transport and catabolism;Global and overview maps;Amino acid metabolism;Lipid metabolism;Lipid metabolism;Lipid metabolism	K07513;K07513;K07513;K07513;K07513;K07513;K07513;K07513	--
+ENSMUSG00000010660	ID_53	7	0.00	-0.10	-3.20	-3.33	0.312	0.034	0.292	0.031	Plcd1	Metabolism;Environmental Information Processing;Human Diseases;Organismal Systems;Human Diseases;Environmental Information Processing;Metabolism	Global and overview maps;Signal transduction;Infectious disease: bacterial;Endocrine system;Endocrine and metabolic disease;Signal transduction;Carbohydrate metabolism	K05857;K05857;K05857;K05857;K05857;K05857;K05857	--
+ENSMUSG00000010721	ID_54	7	0.00	0.39	-1.25	-0.81	0.751	0.316	0.983	0.429	Lmbr1	-	-	-	--
+ENSMUSG00000011034	ID_55	7	0.00	-0.04	-1.84	-1.49	1.029	0.287	1.003	0.367	Slc5a1	Organismal Systems;Organismal Systems;Organismal Systems	Digestive system;Digestive system;Digestive system	K14158;K14158;K14158	--
+ENSMUSG00000011305	ID_56	7	0.00	0.33	-0.50	-0.84	15.904	11.267	19.979	8.890	Plin5	Organismal Systems	Endocrine system	K20255	--
+ENSMUSG00000014301	ID_57	7	0.00	-0.49	-2.86	-2.92	8.990	1.236	6.389	1.189	Pam16	-	-	-	--
+ENSMUSG00000014606	ID_58	7	0.00	0.13	-0.97	-0.86	64.985	33.260	71.146	35.908	Slc25a11	-	-	-	--
+ENSMUSG00000014748	ID_59	7	0.00	0.20	-0.86	-0.47	30.315	16.697	34.922	21.815	Tex261	-	-	-	--
+ENSMUSG00000014791	ID_60	7	0.00	0.18	-0.63	-0.89	10.771	6.974	12.214	5.803	Elmo3	Human Diseases	Infectious disease: bacterial	K19241	--
+ENSMUSG00000015224	ID_61	7	0.00	0.34	-1.41	-2.66	1.295	0.489	1.639	0.205	Cyp2j9	Metabolism;Human Diseases;Organismal Systems;Organismal Systems;Metabolism;Organismal Systems;Metabolism	Global and overview maps;Cardiovascular disease;Nervous system;Sensory system;Lipid metabolism;Endocrine system;Lipid metabolism	K07418;K07418;K07418;K07418;K07418;K07418;K07418	--
+ENSMUSG00000015575	ID_62	7	0.00	0.09	-0.91	-0.59	62.464	33.235	66.643	41.378	Atp6v0e	Metabolism;Human Diseases;Cellular Processes;Human Diseases;Metabolism;Organismal Systems;Human Diseases;Human Diseases;Organismal Systems	Global and overview maps;Infectious disease: viral;Transport and catabolism;Immune disease;Energy metabolism;Nervous system;Infectious disease: bacterial;Infectious disease: bacterial;Excretory system	K02153;K02153;K02153;K02153;K02153;K02153;K02153;K02153;K02153	--
+ENSMUSG00000015597	ID_63	7	0.00	0.41	-0.65	-0.30	1.385	0.885	1.839	1.123	Zfp318	-	-	-	Others
+ENSMUSG00000015966	ID_64	7	0.00	-0.08	-1.43	-1.39	4.364	1.624	4.129	1.665	Il17rb	Environmental Information Processing;Organismal Systems	Signaling molecules and interaction;Immune system	K05165;K05165	--
+ENSMUSG00000016356	ID_65	7	0.00	-0.34	-2.05	-1.29	0.252	0.061	0.199	0.103	Col20a1	Organismal Systems	Digestive system	K24357	--
+ENSMUSG00000016493	ID_66	7	0.00	0.01	-2.06	-1.84	0.300	0.072	0.303	0.084	Cd46	Human Diseases;Organismal Systems	Infectious disease: viral;Immune system	K04007;K04007	--
+ENSMUSG00000017307	ID_67	7	0.00	0.48	-0.87	-1.06	13.237	7.221	18.434	6.345	Acot8	Metabolism;Cellular Processes;Metabolism	Global and overview maps;Transport and catabolism;Lipid metabolism	K11992;K11992;K11992	--
+ENSMUSG00000017405	ID_68	7	0.00	0.36	-0.77	-1.15	0.993	0.581	1.272	0.447	Nek8	-	-	-	--
+ENSMUSG00000017453	ID_69	7	0.00	0.25	-0.64	-1.11	148.011	94.853	175.509	68.763	Pipox	Metabolism;Cellular Processes;Metabolism;Metabolism	Global and overview maps;Transport and catabolism;Amino acid metabolism;Amino acid metabolism	K00306;K00306;K00306;K00306	--
+ENSMUSG00000017652	ID_70	7	0.00	0.12	-1.68	-2.74	0.992	0.310	1.075	0.148	Cd40	Human Diseases;Human Diseases;Environmental Information Processing;Human Diseases;Human Diseases;Environmental Information Processing;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Environmental Information Processing;Organismal Systems;Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Human Diseases	Infectious disease: viral;Cancer: overview;Signaling molecules and interaction;Immune disease;Infectious disease: viral;Signal transduction;Cardiovascular disease;Cardiovascular disease;Immune disease;Immune disease;Signaling molecules and interaction;Immune system;Immune disease;Immune disease;Infectious disease: parasitic;Immune system;Infectious disease: parasitic	K03160;K03160;K03160;K03160;K03160;K03160;K03160;K03160;K03160;K03160;K03160;K03160;K03160;K03160;K03160;K03160;K03160	--
+ENSMUSG00000017724	ID_71	7	0.00	-2.14	-8.18	-8.18	0.290	0.000	0.066	0.000	Etv4	Human Diseases	Cancer: overview	K15592	ETS
+ENSMUSG00000017969	ID_72	7	0.00	0.35	-1.54	-0.66	1.503	0.516	1.916	0.953	Ptgis	Metabolism;Metabolism	Global and overview maps;Lipid metabolism	K01831;K01831	--
+ENSMUSG00000018199	ID_73	7	0.00	0.16	-0.91	-0.88	0.388	0.207	0.435	0.211	Ro60	Human Diseases	Immune disease	K11089	--
+ENSMUSG00000018347	ID_74	7	0.00	-0.23	-1.01	-0.95	2.491	1.237	2.121	1.290	Zkscan6	-	-	-	zf-C2H2
+ENSMUSG00000018599	ID_75	7	0.00	0.49	-0.86	-0.89	6.456	3.556	9.052	3.484	Mief2	-	-	-	--
+ENSMUSG00000018659	ID_76	7	0.00	0.19	-0.85	-1.09	150.577	83.368	172.045	70.957	Pnpo	Metabolism;Metabolism	Global and overview maps;Metabolism of cofactors and vitamins	K00275;K00275	--
+ENSMUSG00000018927	ID_77	7	0.00	-0.09	-1.59	-1.16	17.799	5.914	16.716	7.960	Ccl6	Environmental Information Processing;Organismal Systems;Environmental Information Processing	Signaling molecules and interaction;Immune system;Signaling molecules and interaction	K05510;K05510;K05510	--
+ENSMUSG00000019066	ID_78	7	0.00	0.19	-1.50	-1.10	2.948	1.039	3.361	1.375	Rab3d	Organismal Systems	Digestive system	K07884	--
+ENSMUSG00000019194	ID_79	7	0.00	-0.38	-1.25	-1.11	4.848	2.041	3.724	2.248	Scn1b	Organismal Systems	Circulatory system	K04845	--
+ENSMUSG00000019461	ID_80	7	0.00	-0.17	-1.06	-1.05	5.975	2.862	5.319	2.891	Plscr3	-	-	-	--
+ENSMUSG00000019494	ID_81	7	0.00	-0.03	-0.85	-1.00	124.962	69.493	122.099	62.431	Cops6	-	-	-	--
+ENSMUSG00000019577	ID_82	7	0.00	-0.21	-3.67	-1.93	6.967	0.546	6.018	1.825	Pdk4	Human Diseases	Cardiovascular disease	K00898	--
+ENSMUSG00000019737	ID_83	7	0.00	-0.21	-4.07	-2.39	3.385	0.201	2.923	0.645	Syne4	-	-	-	--
+ENSMUSG00000019806	ID_84	7	0.00	0.01	-1.07	-0.89	17.979	8.578	18.087	9.725	Aig1	-	-	-	--
+ENSMUSG00000019808	ID_85	7	0.00	-0.52	-2.47	-1.57	2.057	0.371	1.430	0.693	Adat2	-	-	-	--
+ENSMUSG00000019838	ID_86	7	0.00	0.72	-1.15	-0.36	29.726	13.420	49.094	23.151	Slc16a10	Organismal Systems;Organismal Systems	Endocrine system;Digestive system	K08187;K08187	--
+ENSMUSG00000019846	ID_87	7	0.00	-0.16	-1.42	-1.66	0.960	0.360	0.860	0.304	Lama4	Human Diseases;Environmental Information Processing;Human Diseases;Human Diseases;Cellular Processes;Human Diseases;Human Diseases;Human Diseases;Environmental Information Processing	Cancer: overview;Signal transduction;Infectious disease: viral;Infectious disease: parasitic;Cellular community - eukaryotes;Infectious disease: parasitic;Infectious disease: parasitic;Cancer: specific types;Signaling molecules and interaction	K06241;K06241;K06241;K06241;K06241;K06241;K06241;K06241;K06241	--
+ENSMUSG00000019876	ID_88	7	0.00	-0.91	-3.69	-2.89	0.751	0.058	0.400	0.101	Pkib	-	-	-	--
+ENSMUSG00000019929	ID_89	7	0.00	0.34	-0.64	-0.95	107.114	68.794	135.335	55.305	Dcn	Human Diseases;Environmental Information Processing	Cancer: overview;Signal transduction	K04660;K04660	--
+ENSMUSG00000019948	ID_90	7	0.00	-0.03	-0.86	-1.13	4.819	2.657	4.736	2.208	Actr6	-	-	-	--
+ENSMUSG00000019989	ID_91	7	0.00	0.09	-1.12	-0.97	12.627	5.809	13.463	6.455	Enpp3	Metabolism;Metabolism;Metabolism;Metabolism;Metabolism;Metabolism;Metabolism	Global and overview maps;Nucleotide metabolism;Nucleotide metabolism;Metabolism of cofactors and vitamins;Carbohydrate metabolism;Metabolism of cofactors and vitamins;Metabolism of cofactors and vitamins	K01513;K01513;K01513;K01513;K01513;K01513;K01513	--
+ENSMUSG00000020029	ID_92	7	0.00	-0.19	-0.99	-1.05	63.617	32.060	55.661	30.680	Nudt4	-	-	-	--
+ENSMUSG00000020034	ID_93	7	0.00	-0.23	-1.73	-1.25	12.891	3.890	10.999	5.435	Tcp11l2	-	-	-	--
+ENSMUSG00000020037	ID_94	7	0.00	-0.17	-1.57	-1.24	1.148	0.387	1.020	0.486	Rfx4	-	-	-	RFX
+ENSMUSG00000020057	ID_95	7	0.00	0.04	-2.22	-1.07	0.764	0.164	0.787	0.364	Dram1	-	-	-	--
+ENSMUSG00000020069	ID_96	7	0.00	-0.45	-1.26	-1.04	7.939	3.322	5.828	3.871	Hnrnph3	-	-	-	--
+ENSMUSG00000020102	ID_97	7	0.00	0.43	-0.57	-0.91	40.602	27.366	54.674	21.622	Slc16a7	-	-	-	--
+ENSMUSG00000020140	ID_98	7	0.00	0.15	-1.24	-1.57	1.456	0.615	1.615	0.490	Lgr5	Environmental Information Processing	Signal transduction	K04308	--
+ENSMUSG00000020176	ID_99	7	0.00	0.11	-1.51	-0.74	1.032	0.362	1.110	0.618	Grb10	Environmental Information Processing	Signal transduction	K20064	--
+ENSMUSG00000020186	ID_100	7	0.00	0.66	-1.29	-1.81	30.037	12.280	47.601	8.547	Csrp2	-	-	-	--
+ENSMUSG00000020300	ID_101	7	0.00	0.12	-1.28	-0.97	7.565	3.122	8.202	3.874	Cpeb4	Cellular Processes;Organismal Systems;Organismal Systems	Cell growth and death;Endocrine system;Development and regeneration	K02602;K02602;K02602	--
+ENSMUSG00000020363	ID_102	7	0.00	1.04	-1.16	-0.85	0.205	0.092	0.422	0.114	Gfpt2	Metabolism;Human Diseases;Human Diseases;Metabolism;Metabolism	Global and overview maps;Cardiovascular disease;Endocrine and metabolic disease;Carbohydrate metabolism;Amino acid metabolism	K00820;K00820;K00820;K00820;K00820	--
+ENSMUSG00000020390	ID_103	7	0.00	0.20	-0.94	-0.81	65.363	34.178	75.179	37.278	Ube2b	Genetic Information Processing	Folding, sorting and degradation	K10574	--
+ENSMUSG00000020407	ID_104	7	0.00	0.47	-2.26	-1.79	1.499	0.313	2.073	0.434	Upp1	Metabolism;Metabolism;Metabolism	Global and overview maps;Xenobiotics biodegradation and metabolism;Nucleotide metabolism	K00757;K00757;K00757	--
+ENSMUSG00000020420	ID_105	7	0.00	-0.67	-2.33	-2.17	0.386	0.077	0.243	0.086	Zfp607a	Human Diseases	Infectious disease: viral	K09228	zf-C2H2
+ENSMUSG00000020455	ID_106	7	0.00	0.44	-0.74	-0.75	7.175	4.294	9.721	4.265	Trim11	-	-	-	--
+ENSMUSG00000020458	ID_107	7	0.00	-0.22	-1.57	-1.16	60.907	20.526	52.337	27.240	Rtn4	Human Diseases	Neurodegenerative disease	K20720	--
+ENSMUSG00000020553	ID_108	7	0.00	0.29	-1.00	-1.84	61.762	30.940	75.625	17.300	Pctp	-	-	-	--
+ENSMUSG00000020623	ID_109	7	0.00	1.02	-0.96	-1.03	2.734	1.402	5.557	1.335	Map2k6	Human Diseases;Human Diseases;Human Diseases;Environmental Information Processing;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Environmental Information Processing;Human Diseases;Organismal Systems;Cellular Processes;Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Organismal Systems;Environmental Information Processing;Organismal Systems;Human Diseases;Organismal Systems;Organismal Systems;Human Diseases;Organismal Systems	Neurodegenerative disease;Neurodegenerative disease;Infectious disease: viral;Signal transduction;Infectious disease: bacterial;Infectious disease: bacterial;Infectious disease: viral;Infectious disease: viral;Infectious disease: viral;Signal transduction;Cardiovascular disease;Immune system;Cell growth and death;Infectious disease: viral;Cardiovascular disease;Endocrine and metabolic disease;Sensory system;Development and regeneration;Signal transduction;Endocrine system;Infectious disease: parasitic;Immune system;Endocrine system;Cancer: overview;Aging	K04433;K04433;K04433;K04433;K04433;K04433;K04433;K04433;K04433;K04433;K04433;K04433;K04433;K04433;K04433;K04433;K04433;K04433;K04433;K04433;K04433;K04433;K04433;K04433;K04433	--
+ENSMUSG00000020653	ID_110	7	0.00	-0.18	-2.67	-1.42	4.372	0.687	3.858	1.638	Klf11	-	-	-	zf-C2H2
+ENSMUSG00000020669	ID_111	7	0.00	0.21	-0.65	-0.87	5.699	3.624	6.611	3.108	Sh3yl1	-	-	-	--
+ENSMUSG00000020674	ID_112	7	0.00	-0.15	-1.12	-0.68	1.702	0.781	1.534	1.065	Pxdn	-	-	-	--
+ENSMUSG00000020701	ID_113	7	0.00	0.24	-1.91	-0.90	0.496	0.132	0.586	0.265	Tmem132e	-	-	-	--
+ENSMUSG00000020777	ID_114	7	0.00	0.77	-0.77	-0.62	479.039	280.406	819.406	312.272	Acox1	Metabolism;Environmental Information Processing;Human Diseases;Metabolism;Organismal Systems;Cellular Processes;Metabolism;Metabolism;Metabolism;Metabolism;Metabolism;Metabolism	Global and overview maps;Signal transduction;Endocrine and metabolic disease;Global and overview maps;Endocrine system;Transport and catabolism;Global and overview maps;Lipid metabolism;Lipid metabolism;Metabolism of other amino acids;Carbohydrate metabolism;Lipid metabolism	K00232;K00232;K00232;K00232;K00232;K00232;K00232;K00232;K00232;K00232;K00232;K00232	--
+ENSMUSG00000020778	ID_115	7	0.00	-0.05	-2.46	-3.31	2.758	0.502	2.669	0.278	Ten1	-	-	-	--
+ENSMUSG00000020785	ID_116	7	0.00	-0.32	-2.93	-3.04	0.198	0.026	0.159	0.024	Camkk1	Human Diseases	Substance dependence	K00908	--
+ENSMUSG00000020805	ID_117	7	0.00	0.90	-3.85	-2.22	0.751	0.052	1.400	0.161	Slc13a5	-	-	-	--
+ENSMUSG00000020806	ID_118	7	0.00	0.17	-1.29	-0.86	2.962	1.210	3.328	1.630	Rhbdf2	-	-	-	--
+ENSMUSG00000020828	ID_119	7	0.00	-0.54	-1.31	-1.24	2.762	1.114	1.895	1.171	Pld2	Metabolism;Human Diseases;Environmental Information Processing;Cellular Processes;Environmental Information Processing;Human Diseases;Environmental Information Processing;Organismal Systems;Environmental Information Processing;Organismal Systems;Organismal Systems;Human Diseases;Metabolism;Organismal Systems;Human Diseases;Metabolism	Global and overview maps;Cancer: overview;Signal transduction;Transport and catabolism;Signal transduction;Cancer: overview;Signal transduction;Immune system;Signal transduction;Nervous system;Endocrine system;Cancer: overview;Lipid metabolism;Endocrine system;Cancer: specific types;Lipid metabolism	K01115;K01115;K01115;K01115;K01115;K01115;K01115;K01115;K01115;K01115;K01115;K01115;K01115;K01115;K01115;K01115	--
+ENSMUSG00000020834	ID_120	7	0.00	0.22	-1.37	-1.94	3.960	1.528	4.600	1.035	Dhrs13	-	-	-	--
+ENSMUSG00000020865	ID_121	7	0.00	0.57	-2.27	-3.84	43.715	9.070	64.805	3.045	Abcc3	Organismal Systems;Environmental Information Processing;Human Diseases	Digestive system;Membrane transport;Drug resistance: antineoplastic	K05667;K05667;K05667	--
+ENSMUSG00000020888	ID_122	7	0.00	-0.27	-1.63	-1.14	2.046	0.660	1.695	0.930	Dvl2	Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Environmental Information Processing;Human Diseases;Environmental Information Processing;Environmental Information Processing;Human Diseases;Human Diseases;Cellular Processes;Organismal Systems;Human Diseases;Environmental Information Processing	Cancer: overview;Neurodegenerative disease;Neurodegenerative disease;Infectious disease: viral;Cancer: specific types;Signal transduction;Endocrine and metabolic disease;Signal transduction;Signal transduction;Cancer: specific types;Cancer: specific types;Cellular community - eukaryotes;Endocrine system;Cancer: specific types;Signal transduction	K02353;K02353;K02353;K02353;K02353;K02353;K02353;K02353;K02353;K02353;K02353;K02353;K02353;K02353;K02353	--
+ENSMUSG00000020919	ID_123	7	0.00	-0.32	-1.07	-0.81	12.016	5.727	9.599	6.851	Stat5b	Human Diseases;Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Environmental Information Processing;Cellular Processes;Human Diseases;Human Diseases;Organismal Systems;Organismal Systems;Human Diseases;Organismal Systems;Environmental Information Processing;Organismal Systems;Human Diseases;Human Diseases;Human Diseases	Cancer: overview;Infectious disease: viral;Cancer: overview;Cancer: overview;Immune system;Signal transduction;Cell growth and death;Infectious disease: viral;Infectious disease: viral;Endocrine system;Immune system;Endocrine and metabolic disease;Immune system;Signal transduction;Endocrine system;Cancer: specific types;Cancer: specific types;Cancer: specific types	K11224;K11224;K11224;K11224;K11224;K11224;K11224;K11224;K11224;K11224;K11224;K11224;K11224;K11224;K11224;K11224;K11224;K11224	STAT
+ENSMUSG00000020925	ID_124	7	0.00	-0.23	-1.11	-0.84	5.378	2.489	4.595	3.006	Ccdc43	-	-	-	--
+ENSMUSG00000020937	ID_125	7	0.00	0.15	-1.97	-2.58	0.546	0.139	0.607	0.091	Plcd3	Metabolism;Environmental Information Processing;Human Diseases;Organismal Systems;Human Diseases;Environmental Information Processing;Metabolism	Global and overview maps;Signal transduction;Infectious disease: bacterial;Endocrine system;Endocrine and metabolic disease;Signal transduction;Carbohydrate metabolism	K05857;K05857;K05857;K05857;K05857;K05857;K05857	--
+ENSMUSG00000021028	ID_126	7	0.00	-0.37	-1.74	-1.43	1.795	0.539	1.387	0.664	Mbip	-	-	-	--
+ENSMUSG00000021044	ID_127	7	0.00	-0.02	-1.17	-0.58	7.375	3.274	7.295	4.936	Adck1	-	-	-	--
+ENSMUSG00000021087	ID_128	7	0.00	-0.02	-1.78	-0.93	0.809	0.235	0.800	0.426	Rtn1	-	-	-	--
+ENSMUSG00000021103	ID_129	7	0.00	-0.55	-1.49	-1.18	6.153	2.184	4.208	2.724	Mnat1	Genetic Information Processing;Genetic Information Processing	Replication and repair;Transcription	K10842;K10842	--
+ENSMUSG00000021134	ID_130	7	0.00	0.06	-0.94	-0.73	72.775	37.858	75.839	43.882	Srsf5	Human Diseases;Genetic Information Processing	Infectious disease: viral;Transcription	K12893;K12893	--
+ENSMUSG00000021211	ID_131	7	0.00	-0.06	-1.05	-1.04	77.018	37.175	73.690	37.490	Akr1c12	-	-	-	--
+ENSMUSG00000021213	ID_132	7	0.00	-0.10	-1.54	-0.92	96.235	33.160	89.496	50.908	Akr1c13	-	-	-	--
+ENSMUSG00000021252	ID_133	7	0.00	-0.24	-1.02	-0.78	157.255	77.650	133.527	91.688	Erg28	-	-	-	--
+ENSMUSG00000021286	ID_134	7	0.00	-0.17	-1.22	-0.83	33.958	14.531	30.109	19.094	Zfyve21	-	-	-	--
+ENSMUSG00000021327	ID_135	7	0.00	0.20	-1.46	-1.06	6.710	2.437	7.729	3.226	Zkscan3	-	-	-	zf-C2H2
+ENSMUSG00000021335	ID_136	7	0.00	0.56	-0.88	-1.55	7.194	3.904	10.602	2.463	Slc17a1	-	-	-	--
+ENSMUSG00000021379	ID_137	7	0.00	-0.54	-2.32	-2.11	0.470	0.094	0.323	0.109	Id4	Cellular Processes;Environmental Information Processing	Cellular community - eukaryotes;Signal transduction	K17695;K17695	bHLH
+ENSMUSG00000021381	ID_138	7	0.00	-0.37	-8.75	-8.75	0.431	0.000	0.333	0.000	Barx1	-	-	-	Homeobox
+ENSMUSG00000021451	ID_139	7	0.00	0.47	-1.88	-0.83	0.598	0.162	0.827	0.336	Sema4d	Organismal Systems	Development and regeneration	K06521	--
+ENSMUSG00000021474	ID_140	7	0.00	0.42	-0.79	-0.40	17.823	10.286	23.912	13.469	Sfxn1	-	-	-	--
+ENSMUSG00000021477	ID_141	7	0.00	0.17	-0.67	-1.19	433.808	272.044	488.360	189.827	Ctsl	Cellular Processes;Human Diseases;Human Diseases;Human Diseases;Cellular Processes;Cellular Processes;Cellular Processes;Organismal Systems	Transport and catabolism;Immune disease;Cancer: overview;Cardiovascular disease;Transport and catabolism;Cell growth and death;Transport and catabolism;Immune system	K01365;K01365;K01365;K01365;K01365;K01365;K01365;K01365	--
+ENSMUSG00000021508	ID_142	7	0.00	-0.13	-1.88	-1.22	1.279	0.347	1.165	0.550	Cxcl14	Environmental Information Processing;Organismal Systems;Environmental Information Processing	Signaling molecules and interaction;Immune system;Signaling molecules and interaction	K10033;K10033;K10033	--
+ENSMUSG00000021518	ID_143	7	0.00	0.27	-0.66	-0.79	18.184	11.541	21.907	10.523	Ptdss1	Metabolism;Metabolism	Global and overview maps;Lipid metabolism	K08729;K08729	--
+ENSMUSG00000021576	ID_144	7	0.00	-0.07	-0.81	-1.02	69.389	39.639	66.283	34.328	Pdcd6	-	-	-	--
+ENSMUSG00000021620	ID_145	7	0.00	0.71	-1.14	-1.07	36.607	16.560	59.952	17.429	Acot12	Metabolism;Metabolism	Global and overview maps;Carbohydrate metabolism	K01067;K01067	--
+ENSMUSG00000021638	ID_146	7	0.00	0.18	-1.07	-1.10	7.562	3.593	8.564	3.528	Ocln	Human Diseases;Cellular Processes;Human Diseases;Environmental Information Processing;Organismal Systems	Infectious disease: bacterial;Cellular community - eukaryotes;Infectious disease: viral;Signaling molecules and interaction;Immune system	K06088;K06088;K06088;K06088;K06088	--
+ENSMUSG00000021706	ID_147	7	0.00	0.29	-0.73	-0.29	0.466	0.280	0.568	0.381	Zfyve16	Cellular Processes;Environmental Information Processing	Transport and catabolism;Signal transduction	K04679;K04679	--
+ENSMUSG00000021795	ID_148	7	0.00	0.13	-2.41	-1.53	1.892	0.355	2.071	0.656	Sftpd	Cellular Processes	Transport and catabolism	K10068	--
+ENSMUSG00000021876	ID_149	7	0.00	0.55	-1.16	-1.11	1321.856	593.175	1936.779	613.043	Rnase4	-	-	-	--
+ENSMUSG00000021880	ID_150	7	0.00	0.17	-1.65	-2.01	1.514	0.481	1.700	0.376	Rnase6	-	-	-	--
+ENSMUSG00000021944	ID_151	7	0.00	0.11	-0.48	-0.91	6.889	4.949	7.423	3.656	Gata4	Cellular Processes;Environmental Information Processing;Cellular Processes;Organismal Systems	Cell growth and death;Signal transduction;Cellular community - eukaryotes;Endocrine system	K09183;K09183;K09183;K09183	zf-GATA
+ENSMUSG00000022025	ID_152	7	0.00	0.03	-0.96	-1.17	1.937	0.998	1.982	0.860	Cnmd	-	-	-	--
+ENSMUSG00000022043	ID_153	7	0.00	-0.07	-1.20	-1.22	1.701	0.739	1.626	0.728	Trim35	-	-	-	--
+ENSMUSG00000022095	ID_154	7	0.00	-0.12	-1.19	-1.31	1.589	0.696	1.463	0.643	Fhip2b	-	-	-	--
+ENSMUSG00000022122	ID_155	7	0.00	0.50	-0.98	-0.64	4.493	2.282	6.341	2.877	Ednrb	Human Diseases;Environmental Information Processing;Environmental Information Processing;Environmental Information Processing;Organismal Systems;Organismal Systems	Cancer: overview;Signaling molecules and interaction;Signal transduction;Signal transduction;Endocrine system;Endocrine system	K04198;K04198;K04198;K04198;K04198;K04198	--
+ENSMUSG00000022132	ID_156	7	0.00	-0.48	-8.14	-8.14	0.283	0.000	0.203	0.000	Cldn10	Human Diseases;Cellular Processes;Human Diseases;Environmental Information Processing;Organismal Systems	Infectious disease: bacterial;Cellular community - eukaryotes;Infectious disease: viral;Signaling molecules and interaction;Immune system	K06087;K06087;K06087;K06087;K06087	--
+ENSMUSG00000022149	ID_157	7	0.00	-0.07	-4.61	-3.59	76.842	3.141	73.307	6.400	C9	Human Diseases;Human Diseases;Human Diseases;Human Diseases;Organismal Systems	Infectious disease: viral;Neurodegenerative disease;Immune disease;Infectious disease: parasitic;Immune system	K04000;K04000;K04000;K04000;K04000	--
+ENSMUSG00000022206	ID_158	7	0.00	0.16	-2.69	-1.98	0.959	0.149	1.070	0.243	Npr3	-	-	-	--
+ENSMUSG00000022297	ID_159	7	0.00	-0.25	-1.53	-1.25	1.221	0.422	1.029	0.514	Fzd6	Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Environmental Information Processing;Human Diseases;Environmental Information Processing;Environmental Information Processing;Human Diseases;Human Diseases;Cellular Processes;Organismal Systems;Human Diseases	Cancer: overview;Neurodegenerative disease;Neurodegenerative disease;Infectious disease: viral;Cancer: overview;Cancer: specific types;Signal transduction;Endocrine and metabolic disease;Signal transduction;Signal transduction;Cancer: specific types;Cancer: specific types;Cellular community - eukaryotes;Endocrine system;Cancer: specific types	K02376;K02376;K02376;K02376;K02376;K02376;K02376;K02376;K02376;K02376;K02376;K02376;K02376;K02376;K02376	--
+ENSMUSG00000022304	ID_160	7	0.00	0.60	-0.64	-0.63	130.862	84.091	198.421	84.533	Dpys	Metabolism;Metabolism;Metabolism;Metabolism;Metabolism	Global and overview maps;Xenobiotics biodegradation and metabolism;Nucleotide metabolism;Metabolism of other amino acids;Metabolism of cofactors and vitamins	K01464;K01464;K01464;K01464;K01464	--
+ENSMUSG00000022325	ID_161	7	0.00	0.08	-0.95	-1.26	1.657	0.858	1.755	0.690	Pop1	Genetic Information Processing	Translation	K01164	--
+ENSMUSG00000022358	ID_162	7	0.00	-0.31	-2.87	-2.06	0.951	0.130	0.768	0.228	Fbxo32	Environmental Information Processing	Signal transduction	K10305	--
+ENSMUSG00000022386	ID_163	7	0.00	0.25	-0.77	-0.96	4.051	2.375	4.823	2.084	Trmu	-	-	-	--
+ENSMUSG00000022439	ID_164	7	0.00	0.71	-1.50	-0.76	0.489	0.173	0.801	0.288	Parvg	Cellular Processes	Cellular community - eukaryotes	K06275	--
+ENSMUSG00000022464	ID_165	7	0.00	1.01	-1.45	-1.44	216.722	79.242	437.278	80.047	Slc38a4	-	-	-	--
+ENSMUSG00000022469	ID_166	7	0.00	-0.33	-1.06	-1.18	1.310	0.628	1.041	0.580	Rapgef3	Environmental Information Processing;Environmental Information Processing;Environmental Information Processing;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems	Signal transduction;Signal transduction;Signal transduction;Circulatory system;Nervous system;Immune system;Nervous system	K08014;K08014;K08014;K08014;K08014;K08014;K08014	--
+ENSMUSG00000022474	ID_167	7	0.00	0.07	-1.51	-1.83	7.576	2.655	7.944	2.124	Pmm1	Metabolism;Metabolism;Metabolism	Global and overview maps;Carbohydrate metabolism;Carbohydrate metabolism	K17497;K17497;K17497	--
+ENSMUSG00000022505	ID_168	7	0.00	0.47	-1.13	-1.22	7.078	3.239	9.774	3.040	Emp2	-	-	-	--
+ENSMUSG00000022514	ID_169	7	0.00	0.11	-1.04	-0.96	33.340	16.173	36.024	17.136	Il1rap	Environmental Information Processing;Environmental Information Processing;Organismal Systems;Organismal Systems	Signaling molecules and interaction;Signal transduction;Sensory system;Immune system	K04723;K04723;K04723;K04723	--
+ENSMUSG00000022529	ID_170	7	0.00	0.26	-1.04	-0.75	3.684	1.793	4.409	2.197	Zfp263	-	-	-	zf-C2H2
+ENSMUSG00000022551	ID_171	7	0.00	0.04	-0.76	-1.10	139.628	82.448	143.960	64.938	Cyc1	Metabolism;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Human Diseases;Human Diseases;Human Diseases;Metabolism;Organismal Systems	Global and overview maps;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Environmental adaptation;Cancer: overview;Cardiovascular disease;Endocrine and metabolic disease;Energy metabolism;Circulatory system	K00413;K00413;K00413;K00413;K00413;K00413;K00413;K00413;K00413;K00413;K00413;K00413;K00413	--
+ENSMUSG00000022553	ID_172	7	0.00	0.04	-1.35	-1.57	19.060	7.491	19.616	6.419	Maf1	-	-	-	Others
+ENSMUSG00000022560	ID_173	7	0.00	-0.16	-1.82	-2.11	2.181	0.617	1.953	0.506	Slc52a2	-	-	-	--
+ENSMUSG00000022562	ID_174	7	0.00	0.55	-1.45	-1.06	28.424	10.430	41.473	13.594	Oplah	Metabolism;Metabolism	Global and overview maps;Metabolism of other amino acids	K01469;K01469	--
+ENSMUSG00000022579	ID_175	7	0.00	0.13	-0.79	-0.88	23.678	13.652	25.990	12.862	Gpihbp1	-	-	-	--
+ENSMUSG00000022615	ID_176	7	0.00	0.73	-0.98	-0.44	7.128	3.621	11.819	5.270	Tymp	Metabolism;Metabolism;Metabolism;Human Diseases	Global and overview maps;Xenobiotics biodegradation and metabolism;Nucleotide metabolism;Cancer: specific types	K00758;K00758;K00758;K00758	--
+ENSMUSG00000022681	ID_177	7	0.00	0.08	-0.78	-0.99	15.626	9.120	16.464	7.888	Ntan1	-	-	-	--
+ENSMUSG00000022684	ID_178	7	0.00	0.02	-0.77	-1.00	20.779	12.154	21.074	10.414	Bfar	-	-	-	--
+ENSMUSG00000022749	ID_179	7	0.00	0.19	-1.07	-0.73	1.961	0.933	2.231	1.179	Tbc1d23	-	-	-	--
+ENSMUSG00000022833	ID_180	7	0.00	-0.15	-2.15	-1.52	0.302	0.068	0.272	0.105	Ccdc14	-	-	-	--
+ENSMUSG00000023009	ID_181	7	0.00	0.04	-1.45	-2.05	0.357	0.131	0.368	0.086	Nckap5l	-	-	-	--
+ENSMUSG00000023021	ID_182	7	0.00	0.26	-1.21	-0.51	1.597	0.692	1.917	1.124	Cers5	Metabolism;Environmental Information Processing;Metabolism	Global and overview maps;Signal transduction;Lipid metabolism	K23727;K23727;K23727	--
+ENSMUSG00000023031	ID_183	7	0.00	-0.52	-2.05	-2.04	24.884	5.996	17.360	6.059	Cela1	-	-	-	--
+ENSMUSG00000023088	ID_184	7	0.00	-0.20	-0.88	-1.05	0.511	0.277	0.446	0.246	Abcc1	Human Diseases;Environmental Information Processing;Environmental Information Processing;Human Diseases;Organismal Systems	Cancer: overview;Signal transduction;Membrane transport;Drug resistance: antineoplastic;Digestive system	K05665;K05665;K05665;K05665;K05665	--
+ENSMUSG00000023132	ID_185	7	0.00	-0.69	-2.32	-2.17	2.576	0.516	1.592	0.572	Gzma	Environmental Information Processing	Signaling molecules and interaction	K01352	--
+ENSMUSG00000023232	ID_186	7	0.00	0.07	-1.07	-1.46	5.780	2.750	6.078	2.094	Serinc2	-	-	-	--
+ENSMUSG00000023348	ID_187	7	0.00	-0.36	-1.27	-1.33	7.580	3.134	5.910	3.010	Trip6	Organismal Systems	Immune system	K12792	--
+ENSMUSG00000023829	ID_188	7	0.00	-0.04	-1.18	-1.07	418.284	184.149	407.359	199.927	Slc22a1	Organismal Systems;Human Diseases	Digestive system;Cancer: overview	K08198;K08198	--
+ENSMUSG00000023886	ID_189	7	0.00	-0.13	-1.57	-1.43	4.845	1.631	4.419	1.802	Smoc2	-	-	-	--
+ENSMUSG00000023972	ID_190	7	0.00	-0.67	-2.25	-1.78	0.409	0.086	0.257	0.119	Ptk7	-	-	-	--
+ENSMUSG00000024072	ID_191	7	0.00	0.31	-0.64	-0.75	13.351	8.544	16.574	7.924	Yipf4	-	-	-	--
+ENSMUSG00000024163	ID_192	7	0.00	-0.01	-1.07	-1.57	2.891	1.377	2.865	0.972	Mapk8ip3	Environmental Information Processing	Signal transduction	K04436	--
+ENSMUSG00000024209	ID_193	7	0.00	-2.76	-7.62	-7.62	0.197	0.000	0.029	0.000	Acsbg3	Metabolism;Organismal Systems;Organismal Systems;Metabolism;Metabolism;Metabolism	Global and overview maps;Endocrine system;Endocrine system;Global and overview maps;Lipid metabolism;Lipid metabolism	K15013;K15013;K15013;K15013;K15013;K15013	--
+ENSMUSG00000024248	ID_194	7	0.00	-0.45	-1.59	-1.68	174.203	57.803	127.852	54.454	Cox7a2l	Metabolism;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Human Diseases;Human Diseases;Human Diseases;Metabolism;Organismal Systems	Global and overview maps;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Environmental adaptation;Cancer: overview;Cardiovascular disease;Endocrine and metabolic disease;Energy metabolism;Circulatory system	K02270;K02270;K02270;K02270;K02270;K02270;K02270;K02270;K02270;K02270;K02270;K02270;K02270	--
+ENSMUSG00000024299	ID_195	7	0.00	-0.47	-2.21	-1.89	1.955	0.422	1.414	0.529	Adamts10	-	-	-	--
+ENSMUSG00000024413	ID_196	7	0.00	0.57	-0.71	-0.32	27.735	17.002	41.145	22.167	Npc1	Cellular Processes;Organismal Systems	Transport and catabolism;Digestive system	K12385;K12385	--
+ENSMUSG00000024427	ID_197	7	0.00	0.77	-0.94	-0.52	1.284	0.667	2.188	0.897	Spry4	-	-	-	--
+ENSMUSG00000024429	ID_198	7	0.00	0.20	-0.91	-0.57	11.196	5.946	12.868	7.521	Gnl1	-	-	-	--
+ENSMUSG00000024521	ID_199	7	0.00	-1.37	-3.31	-2.96	0.714	0.072	0.276	0.092	Pmaip1	Human Diseases;Human Diseases;Cellular Processes;Human Diseases;Human Diseases;Cellular Processes;Cellular Processes	Cancer: overview;Cancer: overview;Cell growth and death;Cancer: specific types;Drug resistance: antineoplastic;Cell growth and death;Cell growth and death	K10131;K10131;K10131;K10131;K10131;K10131;K10131	--
+ENSMUSG00000024580	ID_200	7	0.00	0.38	-1.26	-0.84	11.107	4.645	14.436	6.199	Grpel2	-	-	-	--
+ENSMUSG00000024759	ID_201	7	0.00	0.20	-0.88	-0.53	13.454	7.311	15.476	9.307	Atl3	-	-	-	--
+ENSMUSG00000024924	ID_202	7	0.00	0.23	-3.09	-1.61	1.889	0.222	2.212	0.619	Vldlr	Human Diseases;Human Diseases	Cardiovascular disease;Neurodegenerative disease	K20053;K20053	--
+ENSMUSG00000024948	ID_203	7	0.00	-0.17	-1.18	-0.68	3.444	1.515	3.065	2.148	Map4k2	Environmental Information Processing	Signal transduction	K04414	--
+ENSMUSG00000025026	ID_204	7	0.00	0.13	-0.99	-0.61	3.352	1.689	3.661	2.200	Add3	-	-	-	--
+ENSMUSG00000025083	ID_205	7	0.00	-0.69	-2.74	-2.00	0.854	0.128	0.528	0.213	Afap1l2	-	-	-	--
+ENSMUSG00000025223	ID_206	7	0.00	0.38	-0.69	-0.46	15.187	9.418	19.699	11.061	Ldb1	Human Diseases	Cancer: overview	K15617	--
+ENSMUSG00000025268	ID_207	7	0.00	-0.26	-1.21	-0.94	5.972	2.587	4.980	3.106	Maged2	-	-	-	--
+ENSMUSG00000025348	ID_208	7	0.00	-0.31	-1.41	-1.52	4.929	1.857	3.982	1.715	Itga7	Environmental Information Processing;Human Diseases;Cellular Processes;Human Diseases;Cellular Processes;Human Diseases;Environmental Information Processing;Human Diseases	Signal transduction;Infectious disease: viral;Cell motility;Cardiovascular disease;Cellular community - eukaryotes;Cardiovascular disease;Signaling molecules and interaction;Cardiovascular disease	K06583;K06583;K06583;K06583;K06583;K06583;K06583;K06583	--
+ENSMUSG00000025384	ID_209	7	0.00	0.07	-0.98	-0.46	2.125	1.078	2.237	1.546	Faap100	Genetic Information Processing	Replication and repair	K10993	--
+ENSMUSG00000025393	ID_210	7	0.00	0.37	-0.87	-0.38	687.613	375.415	887.261	527.622	Atp5b	Metabolism;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Human Diseases;Human Diseases;Metabolism	Global and overview maps;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Environmental adaptation;Cancer: overview;Cardiovascular disease;Energy metabolism	K02133;K02133;K02133;K02133;K02133;K02133;K02133;K02133;K02133;K02133;K02133	--
+ENSMUSG00000025428	ID_211	7	0.00	0.19	-0.88	-0.49	431.304	234.782	492.825	306.147	Atp5a1	Metabolism;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Human Diseases;Human Diseases;Metabolism	Global and overview maps;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Environmental adaptation;Cancer: overview;Cardiovascular disease;Energy metabolism	K02132;K02132;K02132;K02132;K02132;K02132;K02132;K02132;K02132;K02132;K02132	--
+ENSMUSG00000025486	ID_212	7	0.00	0.37	-0.73	-0.66	60.959	36.784	78.759	38.492	Sirt3	Metabolism;Human Diseases;Metabolism	Global and overview maps;Cancer: overview;Metabolism of cofactors and vitamins	K11413;K11413;K11413	--
+ENSMUSG00000025505	ID_213	7	0.00	0.05	-2.08	-2.49	2.129	0.503	2.205	0.378	Tmem80	-	-	-	--
+ENSMUSG00000025646	ID_214	7	0.00	-0.46	-1.32	-1.09	3.445	1.383	2.512	1.619	Atrip	Genetic Information Processing	Replication and repair	K10905	--
+ENSMUSG00000025666	ID_215	7	0.00	0.17	-0.64	-0.91	1.373	0.882	1.550	0.731	Tmem47	-	-	-	--
+ENSMUSG00000025790	ID_216	7	0.00	0.27	-0.95	-0.60	1.769	0.916	2.127	1.167	Slco3a1	-	-	-	--
+ENSMUSG00000025792	ID_217	7	0.00	0.46	-0.66	-0.63	104.932	66.365	144.130	67.707	Slc25a10	Organismal Systems	Excretory system	K13577	--
+ENSMUSG00000025880	ID_218	7	0.00	0.73	-1.19	-1.72	1.163	0.508	1.932	0.353	Smad7	Environmental Information Processing;Environmental Information Processing	Signal transduction;Signal transduction	K19631;K19631	MH1
+ENSMUSG00000025898	ID_219	7	0.00	0.15	-0.87	-0.67	1.712	0.937	1.904	1.073	Cwf19l2	-	-	-	--
+ENSMUSG00000026078	ID_220	7	0.00	-0.21	-1.15	-1.09	6.336	2.847	5.495	2.972	Pdcl3	-	-	-	--
+ENSMUSG00000026094	ID_221	7	0.00	-0.12	-1.02	-0.90	2.335	1.155	2.146	1.254	Stk17b	-	-	-	--
+ENSMUSG00000026170	ID_222	7	0.00	-0.05	-1.24	-0.73	288.981	122.432	278.629	174.508	Cyp27a1	Metabolism;Organismal Systems;Organismal Systems;Metabolism	Global and overview maps;Endocrine system;Digestive system;Lipid metabolism	K00488;K00488;K00488;K00488	--
+ENSMUSG00000026197	ID_223	7	0.00	-0.23	-1.39	-0.88	36.358	13.869	30.959	19.806	Zfand2b	-	-	-	--
+ENSMUSG00000026198	ID_224	7	0.00	-0.22	-1.21	-1.61	44.443	19.155	38.285	14.528	Abcb6	Environmental Information Processing	Membrane transport	K05661	--
+ENSMUSG00000026199	ID_225	7	0.00	0.29	-1.05	-1.08	5.838	2.811	7.127	2.771	Ankzf1	-	-	-	--
+ENSMUSG00000026259	ID_226	7	0.00	0.15	-0.83	-1.01	15.584	8.794	17.324	7.751	Ngef	Organismal Systems	Development and regeneration	K07525	--
+ENSMUSG00000026273	ID_227	7	0.00	0.19	-0.70	-1.09	14.141	8.698	16.182	6.637	Mterf4	-	-	-	--
+ENSMUSG00000026311	ID_228	7	0.00	0.26	-1.40	-0.94	1.107	0.420	1.323	0.577	Asb1	-	-	-	--
+ENSMUSG00000026319	ID_229	7	0.00	-0.16	-1.08	-1.35	4.385	2.070	3.918	1.724	Relch	-	-	-	--
+ENSMUSG00000026335	ID_230	7	0.00	0.37	-0.74	-0.64	8.592	5.136	11.131	5.506	Pam	-	-	-	--
+ENSMUSG00000026395	ID_231	7	0.00	-0.51	-1.41	-1.32	2.454	0.923	1.718	0.981	Ptprc	Human Diseases;Organismal Systems;Environmental Information Processing;Human Diseases;Organismal Systems	Infectious disease: bacterial;Immune system;Signaling molecules and interaction;Immune disease;Immune system	K06478;K06478;K06478;K06478;K06478	--
+ENSMUSG00000026458	ID_232	7	0.00	-0.36	-1.78	-1.72	0.532	0.155	0.415	0.161	Ppfia4	-	-	-	--
+ENSMUSG00000026475	ID_233	7	0.00	0.65	-2.40	-1.62	57.754	10.922	90.896	18.745	Rgs16	-	-	-	--
+ENSMUSG00000026495	ID_234	7	0.00	-0.00	-0.87	-1.31	0.695	0.380	0.694	0.280	Efcab2	-	-	-	--
+ENSMUSG00000026525	ID_235	7	0.00	0.31	-3.07	-3.16	0.394	0.047	0.487	0.044	Opn3	-	-	-	--
+ENSMUSG00000026574	ID_236	7	0.00	0.16	-0.79	-0.87	3.629	2.102	4.054	1.990	Dpt	-	-	-	--
+ENSMUSG00000026611	ID_237	7	0.00	-0.65	-8.61	-8.61	0.392	0.000	0.250	0.000	Spata17	-	-	-	--
+ENSMUSG00000026620	ID_238	7	0.00	0.51	-1.32	-0.92	0.375	0.150	0.533	0.198	Mark1	-	-	-	--
+ENSMUSG00000026676	ID_239	7	0.00	-0.16	-1.06	-1.02	1.270	0.611	1.134	0.627	Ccdc3	-	-	-	--
+ENSMUSG00000026696	ID_240	7	0.00	0.25	-0.65	-0.79	7.521	4.787	8.963	4.346	Vamp4	Genetic Information Processing	Folding, sorting and degradation	K08513	--
+ENSMUSG00000026698	ID_241	7	0.00	0.03	-0.90	-1.10	5.196	2.781	5.312	2.424	Pigc	Metabolism;Metabolism	Global and overview maps;Glycan biosynthesis and metabolism	K03859;K03859	--
+ENSMUSG00000026766	ID_242	7	0.00	0.31	-0.51	-0.74	42.746	29.918	52.989	25.544	Mmadhc	-	-	-	--
+ENSMUSG00000026833	ID_243	7	0.00	0.65	-0.98	-1.55	1.514	0.766	2.381	0.516	Olfm1	-	-	-	--
+ENSMUSG00000026848	ID_244	7	0.00	0.45	-0.83	-0.95	9.735	5.478	13.262	5.038	Tor1b	-	-	-	--
+ENSMUSG00000026866	ID_245	7	0.00	0.58	-0.73	-0.41	54.636	32.861	81.540	41.171	Kynu	Metabolism;Metabolism	Global and overview maps;Amino acid metabolism	K01556;K01556	--
+ENSMUSG00000026873	ID_246	7	0.00	0.25	-1.85	-0.97	0.524	0.145	0.623	0.268	Phf19	-	-	-	--
+ENSMUSG00000026915	ID_247	7	0.00	-0.22	-1.11	-0.76	5.980	2.780	5.135	3.530	Strbp	-	-	-	--
+ENSMUSG00000026923	ID_248	7	0.00	0.01	-1.35	-0.86	2.090	0.821	2.111	1.155	Notch1	Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Organismal Systems;Human Diseases;Organismal Systems;Environmental Information Processing;Organismal Systems	Cancer: overview;Infectious disease: viral;Neurodegenerative disease;Cancer: overview;Cancer: specific types;Endocrine system;Development and regeneration;Drug resistance: antineoplastic;Immune system;Signal transduction;Development and regeneration	K02599;K02599;K02599;K02599;K02599;K02599;K02599;K02599;K02599;K02599;K02599	--
+ENSMUSG00000026977	ID_249	7	0.00	-0.15	-0.83	-1.08	5.034	2.823	4.534	2.377	Marchf7	-	-	-	--
+ENSMUSG00000026986	ID_250	7	0.00	-0.34	-1.04	-0.97	15.898	7.713	12.520	8.129	Hnmt	Metabolism;Metabolism	Global and overview maps;Amino acid metabolism	K00546;K00546	--
+ENSMUSG00000026988	ID_251	7	0.00	0.24	-0.99	-0.77	2.087	1.049	2.470	1.227	Wdsub1	-	-	-	--
+ENSMUSG00000026994	ID_252	7	0.00	-0.24	-3.21	-2.31	0.213	0.023	0.180	0.043	Galnt3	Metabolism;Metabolism;Metabolism	Global and overview maps;Glycan biosynthesis and metabolism;Glycan biosynthesis and metabolism	K00710;K00710;K00710	--
+ENSMUSG00000027030	ID_253	7	0.00	0.31	-0.80	-0.79	0.533	0.307	0.659	0.308	Stk39	-	-	-	--
+ENSMUSG00000027188	ID_254	7	0.00	0.02	-1.69	-1.14	3.158	0.981	3.199	1.432	Pamr1	-	-	-	--
+ENSMUSG00000027273	ID_255	7	0.00	-2.14	-8.33	-8.33	0.321	0.000	0.073	0.000	Snap25	Organismal Systems;Organismal Systems	Endocrine system;Nervous system	K18211;K18211	--
+ENSMUSG00000027309	ID_256	7	0.00	-0.17	-1.30	-0.75	4.106	1.668	3.642	2.446	Dnaaf9	-	-	-	--
+ENSMUSG00000027340	ID_257	7	0.00	0.64	-1.24	-1.00	4.300	1.822	6.711	2.143	Slc23a2	-	-	-	--
+ENSMUSG00000027347	ID_258	7	0.00	-0.29	-1.89	-1.81	0.577	0.156	0.472	0.164	Rasgrp1	Human Diseases;Environmental Information Processing;Environmental Information Processing;Organismal Systems;Organismal Systems;Human Diseases	Cancer: overview;Signal transduction;Signal transduction;Immune system;Immune system;Cancer: overview	K04350;K04350;K04350;K04350;K04350;K04350	--
+ENSMUSG00000027358	ID_259	7	0.00	0.22	-0.73	-1.40	3.287	1.988	3.822	1.247	Bmp2	Human Diseases;Environmental Information Processing;Environmental Information Processing;Environmental Information Processing;Human Diseases	Cancer: overview;Signaling molecules and interaction;Signal transduction;Signal transduction;Cancer: specific types	K21283;K21283;K21283;K21283;K21283	--
+ENSMUSG00000027404	ID_260	7	0.00	-0.07	-0.95	-1.36	44.370	22.940	42.403	17.297	Snrpb	Human Diseases;Genetic Information Processing	Immune disease;Transcription	K11086;K11086	--
+ENSMUSG00000027438	ID_261	7	0.00	-0.37	-1.74	-1.27	0.280	0.084	0.216	0.116	Napb	-	-	-	--
+ENSMUSG00000027499	ID_262	7	0.00	0.53	-2.65	-3.77	0.313	0.050	0.451	0.023	Pkia	Human Diseases	Substance dependence	K15985	--
+ENSMUSG00000027583	ID_263	7	0.00	0.15	-1.88	-2.24	1.071	0.290	1.190	0.226	Zbtb46	-	-	-	ZBTB
+ENSMUSG00000027624	ID_264	7	0.00	-0.04	-1.30	-1.00	0.855	0.348	0.830	0.428	Epb41l1	-	-	-	--
+ENSMUSG00000027698	ID_265	7	0.00	0.43	-1.28	-0.82	10.449	4.307	14.109	5.921	Nceh1	Human Diseases;Organismal Systems;Organismal Systems;Organismal Systems	Endocrine and metabolic disease;Digestive system;Endocrine system;Digestive system	K14349;K14349;K14349;K14349	--
+ENSMUSG00000027953	ID_266	7	0.00	0.15	-0.94	-0.73	10.702	5.584	11.853	6.468	Slc50a1	-	-	-	--
+ENSMUSG00000027997	ID_267	7	0.00	-0.14	-1.16	-1.50	20.917	9.333	18.986	7.413	Casp6	Human Diseases;Cellular Processes	Cardiovascular disease;Cell growth and death	K04396;K04396	--
+ENSMUSG00000028016	ID_268	7	0.00	0.15	-0.71	-0.87	1.629	0.993	1.803	0.890	Ints12	-	-	-	--
+ENSMUSG00000028076	ID_269	7	0.00	-0.35	-1.02	-1.08	153.938	75.761	120.824	72.794	Cd1d1	Human Diseases;Organismal Systems;Cellular Processes	Infectious disease: parasitic;Immune system;Cellular community - eukaryotes	K06448;K06448;K06448	--
+ENSMUSG00000028127	ID_270	7	0.00	0.70	-0.80	-0.65	120.922	69.244	196.319	77.115	Abcd3	Cellular Processes;Environmental Information Processing	Transport and catabolism;Membrane transport	K05677;K05677	--
+ENSMUSG00000028128	ID_271	7	0.00	-0.01	-1.29	-0.87	2.931	1.196	2.904	1.609	F3	Human Diseases;Organismal Systems	Endocrine and metabolic disease;Immune system	K03901;K03901	--
+ENSMUSG00000028133	ID_272	7	0.00	-0.17	-1.81	-1.62	2.349	0.671	2.089	0.765	Rwdd3	-	-	-	--
+ENSMUSG00000028134	ID_273	7	0.00	0.29	-1.15	-0.89	1.774	0.801	2.172	0.956	Ptbp2	-	-	-	--
+ENSMUSG00000028191	ID_274	7	0.00	0.20	-0.46	-0.82	8.548	6.228	9.801	4.851	Bcl10	Human Diseases;Human Diseases;Environmental Information Processing;Organismal Systems;Organismal Systems;Organismal Systems	Infectious disease: bacterial;Infectious disease: bacterial;Signal transduction;Immune system;Immune system;Immune system	K07368;K07368;K07368;K07368;K07368;K07368	--
+ENSMUSG00000028194	ID_275	7	0.00	-0.09	-2.25	-2.69	38.452	8.104	36.034	5.973	Ddah1	-	-	-	--
+ENSMUSG00000028214	ID_276	7	0.00	-0.23	-1.02	-0.68	1.739	0.858	1.480	1.084	Gem	-	-	-	--
+ENSMUSG00000028223	ID_277	7	0.00	0.59	-0.63	-0.90	85.013	55.047	127.694	45.639	Decr1	-	-	-	--
+ENSMUSG00000028248	ID_278	7	0.00	0.37	-0.96	-0.36	2.100	1.080	2.706	1.641	Pnisr	-	-	-	--
+ENSMUSG00000028328	ID_279	7	0.00	0.38	-1.01	-1.90	0.481	0.239	0.627	0.129	Tmod1	-	-	-	--
+ENSMUSG00000028381	ID_280	7	0.00	-0.21	-1.18	-1.18	7.516	3.319	6.484	3.316	Ugcg	Metabolism;Metabolism	Global and overview maps;Lipid metabolism	K00720;K00720	--
+ENSMUSG00000028391	ID_281	7	0.00	1.46	-6.71	-6.71	0.105	0.000	0.288	0.000	Wdr31	-	-	-	--
+ENSMUSG00000028467	ID_282	7	0.00	0.10	-0.81	-1.20	3.361	1.917	3.593	1.464	Gba2	Metabolism;Metabolism;Metabolism	Global and overview maps;Lipid metabolism;Glycan biosynthesis and metabolism	K17108;K17108;K17108	--
+ENSMUSG00000028494	ID_283	7	0.00	0.09	-1.14	-0.95	317.206	143.948	337.046	163.665	Plin2	Organismal Systems	Endocrine system	K17284	--
+ENSMUSG00000028536	ID_284	7	0.00	0.13	-1.18	-0.72	16.601	7.323	18.121	10.087	2610528J11Rik	-	-	-	--
+ENSMUSG00000028603	ID_285	7	0.00	0.28	-0.72	-0.99	1144.977	696.626	1388.974	575.449	Scp2	Metabolism;Organismal Systems;Cellular Processes;Metabolism;Metabolism;Metabolism	Global and overview maps;Endocrine system;Transport and catabolism;Global and overview maps;Lipid metabolism;Lipid metabolism	K08764;K08764;K08764;K08764;K08764;K08764	--
+ENSMUSG00000028629	ID_286	7	0.00	-0.64	-1.98	-1.63	2.871	0.726	1.840	0.926	Exo5	-	-	-	--
+ENSMUSG00000028645	ID_287	7	0.00	0.54	-0.77	-0.95	6.243	3.659	9.088	3.234	Slc2a1	Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Environmental Information Processing;Human Diseases;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Human Diseases;Human Diseases	Cancer: overview;Infectious disease: viral;Cardiovascular disease;Endocrine system;Signal transduction;Endocrine and metabolic disease;Endocrine system;Digestive system;Endocrine system;Endocrine system;Cancer: overview;Cancer: specific types	K07299;K07299;K07299;K07299;K07299;K07299;K07299;K07299;K07299;K07299;K07299;K07299	--
+ENSMUSG00000028653	ID_288	7	0.00	-0.52	-1.34	-1.21	6.070	2.402	4.231	2.622	Trit1	Metabolism	Global and overview maps	K00791	--
+ENSMUSG00000028776	ID_289	7	0.00	0.25	-0.75	-0.98	12.337	7.335	14.673	6.246	Tinagl1	-	-	-	--
+ENSMUSG00000028952	ID_290	7	0.00	0.04	-1.21	-0.82	7.089	3.072	7.284	4.007	Zbtb48	-	-	-	ZBTB
+ENSMUSG00000028955	ID_291	7	0.00	-0.22	-1.00	-0.95	10.952	5.470	9.377	5.683	Vamp3	Cellular Processes;Genetic Information Processing	Transport and catabolism;Folding, sorting and degradation	K13505;K13505	--
+ENSMUSG00000029001	ID_292	7	0.00	-0.40	-1.71	-1.64	2.772	0.847	2.099	0.888	Fbxo44	-	-	-	--
+ENSMUSG00000029016	ID_293	7	0.00	-0.32	-1.35	-0.91	0.936	0.366	0.748	0.497	Clcn6	-	-	-	--
+ENSMUSG00000029029	ID_294	7	0.00	-0.44	-1.28	-1.30	6.463	2.664	4.762	2.618	Wrap73	-	-	-	--
+ENSMUSG00000029075	ID_295	7	0.00	-0.83	-9.65	-9.65	0.805	0.000	0.452	0.000	Tnfrsf4	Environmental Information Processing	Signaling molecules and interaction	K05142	--
+ENSMUSG00000029127	ID_296	7	0.00	-0.21	-1.59	-2.02	0.614	0.204	0.531	0.151	Zbtb49	-	-	-	ZBTB
+ENSMUSG00000029141	ID_297	7	0.00	-0.24	-1.29	-1.50	10.852	4.427	9.172	3.839	Slc4a1ap	-	-	-	--
+ENSMUSG00000029179	ID_298	7	0.00	0.31	-1.24	-0.68	1.629	0.689	2.017	1.020	Zcchc4	-	-	-	--
+ENSMUSG00000029229	ID_299	7	0.00	0.27	-0.59	-0.98	1.959	1.298	2.362	0.992	Chic2	-	-	-	--
+ENSMUSG00000029247	ID_300	7	0.00	1.03	-1.16	-0.72	90.877	40.745	185.221	55.232	Paics	Metabolism;Metabolism	Global and overview maps;Nucleotide metabolism	K01587;K01587	--
+ENSMUSG00000029287	ID_301	7	0.00	0.20	-0.92	-0.57	1.635	0.863	1.875	1.100	Tgfbr3	-	-	-	--
+ENSMUSG00000029304	ID_302	7	0.00	-0.42	-1.72	-2.10	98.946	30.055	73.817	23.143	Spp1	Environmental Information Processing;Human Diseases;Cellular Processes;Environmental Information Processing;Organismal Systems;Environmental Information Processing;Organismal Systems	Signal transduction;Infectious disease: viral;Cellular community - eukaryotes;Signal transduction;Immune system;Signaling molecules and interaction;Endocrine system	K06250;K06250;K06250;K06250;K06250;K06250;K06250	--
+ENSMUSG00000029311	ID_303	7	0.00	0.89	-1.04	-0.71	89.806	43.782	166.385	54.880	Hsd17b11	-	-	-	--
+ENSMUSG00000029385	ID_304	7	0.00	-0.06	-1.06	-0.97	5.309	2.551	5.097	2.706	Ccng2	Environmental Information Processing;Cellular Processes	Signal transduction;Cell growth and death	K10146;K10146	--
+ENSMUSG00000029401	ID_305	7	0.00	0.30	-0.60	-1.03	6.503	4.298	7.983	3.188	Rilpl2	-	-	-	--
+ENSMUSG00000029428	ID_306	7	0.00	0.30	-1.05	-0.41	3.251	1.566	3.989	2.441	Stx2	Organismal Systems;Genetic Information Processing	Nervous system;Folding, sorting and degradation	K08486;K08486	--
+ENSMUSG00000029440	ID_307	7	0.00	0.48	-0.68	-0.49	15.936	9.977	22.183	11.325	Psmd9	Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Genetic Information Processing	Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Folding, sorting and degradation	K06693;K06693;K06693;K06693;K06693;K06693;K06693;K06693	--
+ENSMUSG00000029627	ID_308	7	0.00	0.51	-0.67	-1.07	3.291	2.073	4.690	1.563	Zkscan14	-	-	-	zf-C2H2
+ENSMUSG00000029714	ID_309	7	0.00	0.44	-0.76	-0.28	2.142	1.266	2.898	1.760	Gigyf1	-	-	-	--
+ENSMUSG00000029784	ID_310	7	0.00	2.86	-6.02	-6.02	0.065	0.000	0.471	0.000	Ssmem1	-	-	-	--
+ENSMUSG00000029822	ID_311	7	0.00	0.18	-2.00	-1.28	0.360	0.090	0.407	0.148	Osbpl3	-	-	-	--
+ENSMUSG00000030020	ID_312	7	0.00	0.44	-0.82	-0.29	0.187	0.106	0.253	0.153	Prickle2	Environmental Information Processing	Signal transduction	K04511	--
+ENSMUSG00000030030	ID_313	7	0.00	0.65	-2.44	-1.24	0.478	0.088	0.750	0.203	1700003E16Rik	-	-	-	--
+ENSMUSG00000030161	ID_314	7	0.00	0.26	-0.72	-0.77	160.672	97.261	192.708	94.373	Gabarapl1	Organismal Systems;Cellular Processes;Environmental Information Processing;Organismal Systems;Organismal Systems;Cellular Processes;Cellular Processes	Immune system;Transport and catabolism;Signal transduction;Aging;Nervous system;Transport and catabolism;Transport and catabolism	K08341;K08341;K08341;K08341;K08341;K08341;K08341	--
+ENSMUSG00000030187	ID_315	7	0.00	-0.76	-2.54	-1.92	1.760	0.302	1.036	0.465	Klra2	-	-	-	--
+ENSMUSG00000030207	ID_316	7	0.00	0.50	-0.63	-0.31	7.947	5.129	11.277	6.403	Fam234b	-	-	-	--
+ENSMUSG00000030246	ID_317	7	0.00	-0.08	-1.18	-1.46	2.870	1.267	2.715	1.040	Ldhb	Metabolism;Environmental Information Processing;Organismal Systems;Human Diseases;Metabolism;Metabolism;Metabolism;Metabolism	Global and overview maps;Signal transduction;Endocrine system;Cancer: overview;Carbohydrate metabolism;Amino acid metabolism;Carbohydrate metabolism;Carbohydrate metabolism	K00016;K00016;K00016;K00016;K00016;K00016;K00016;K00016	--
+ENSMUSG00000030247	ID_318	7	0.00	0.53	-0.68	-0.61	2.255	1.407	3.261	1.478	Kcnj8	Environmental Information Processing	Signal transduction	K05001	--
+ENSMUSG00000030263	ID_319	7	0.00	-0.40	-1.34	-1.46	2.137	0.846	1.622	0.775	Irag2	-	-	-	--
+ENSMUSG00000030324	ID_320	7	0.00	1.77	-6.02	-6.02	0.065	0.000	0.221	0.000	Rho	Organismal Systems	Sensory system	K04250	--
+ENSMUSG00000030401	ID_321	7	0.00	0.47	-1.19	-1.31	0.771	0.337	1.068	0.311	Rtn2	-	-	-	--
+ENSMUSG00000030471	ID_322	7	0.00	-0.17	-1.19	-0.80	1.627	0.714	1.450	0.937	Zdhhc13	-	-	-	--
+ENSMUSG00000030494	ID_323	7	0.00	-0.03	-0.95	-1.24	5.578	2.888	5.447	2.356	Rhpn2	-	-	-	--
+ENSMUSG00000030498	ID_324	7	0.00	0.43	-1.26	-1.56	11.668	4.888	15.674	3.957	Gas2	-	-	-	--
+ENSMUSG00000030528	ID_325	7	0.00	-1.54	-3.54	-3.17	1.311	0.113	0.451	0.146	Blm	Genetic Information Processing;Genetic Information Processing	Replication and repair;Replication and repair	K10901;K10901	--
+ENSMUSG00000030605	ID_326	7	0.00	-0.43	-1.20	-1.13	14.189	6.178	10.547	6.503	Mfge8	-	-	-	--
+ENSMUSG00000030652	ID_327	7	0.00	-0.24	-0.96	-1.13	35.712	18.349	30.244	16.362	Coq7	Metabolism;Metabolism	Global and overview maps;Metabolism of cofactors and vitamins	K06134;K06134	--
+ENSMUSG00000030654	ID_328	7	0.00	0.37	-0.46	-0.72	75.966	55.290	98.109	45.979	Arl6ip1	-	-	-	--
+ENSMUSG00000030701	ID_329	7	0.00	0.74	-1.24	-0.91	20.565	8.711	34.290	10.937	Plekhb1	-	-	-	--
+ENSMUSG00000030708	ID_330	7	0.00	1.02	-3.44	-1.52	0.381	0.035	0.772	0.133	Dnajb13	-	-	-	--
+ENSMUSG00000030720	ID_331	7	0.00	-0.18	-0.85	-1.01	10.931	6.065	9.632	5.433	Cln3	Cellular Processes	Transport and catabolism	K12389	--
+ENSMUSG00000030750	ID_332	7	0.00	-0.41	-1.04	-0.95	17.432	8.493	13.103	9.040	Nsmce1	-	-	-	--
+ENSMUSG00000030760	ID_333	7	0.00	-0.33	-1.36	-1.16	5.414	2.107	4.303	2.428	Acer3	Metabolism;Metabolism	Global and overview maps;Lipid metabolism	K04711;K04711	--
+ENSMUSG00000030761	ID_334	7	0.00	0.24	-0.72	-0.98	3.829	2.318	4.513	1.945	Myo7a	-	-	-	--
+ENSMUSG00000030769	ID_335	7	0.00	-0.56	-8.14	-8.14	0.283	0.000	0.192	0.000	Slc5a11	-	-	-	--
+ENSMUSG00000030827	ID_336	7	0.00	0.58	-1.76	-1.12	5.152	1.524	7.675	2.376	Fgf21	Human Diseases;Environmental Information Processing;Environmental Information Processing;Environmental Information Processing;Environmental Information Processing;Organismal Systems;Cellular Processes;Environmental Information Processing;Human Diseases;Human Diseases;Human Diseases	Cancer: overview;Signal transduction;Signal transduction;Signal transduction;Signal transduction;Environmental adaptation;Cell motility;Signal transduction;Cancer: specific types;Cancer: specific types;Cancer: specific types	K22429;K22429;K22429;K22429;K22429;K22429;K22429;K22429;K22429;K22429;K22429	--
+ENSMUSG00000030917	ID_337	7	0.00	-0.65	-1.46	-1.27	2.864	1.038	1.831	1.184	Tmem159	-	-	-	--
+ENSMUSG00000030930	ID_338	7	0.00	0.49	-0.56	-0.38	2.255	1.525	3.162	1.738	Chst15	Metabolism	Glycan biosynthesis and metabolism	K08106	--
+ENSMUSG00000030934	ID_339	7	0.00	-0.10	-1.66	-2.04	1218.456	385.476	1140.079	296.973	Oat	Metabolism;Metabolism	Global and overview maps;Amino acid metabolism	K00819;K00819	--
+ENSMUSG00000030935	ID_340	7	0.00	0.54	-0.80	-0.58	26.278	15.119	38.117	17.616	Acsm3	Metabolism;Metabolism	Global and overview maps;Carbohydrate metabolism	K01896;K01896	--
+ENSMUSG00000031147	ID_341	7	0.00	-0.23	-1.16	-1.06	15.054	6.750	12.845	7.232	Magix	-	-	-	--
+ENSMUSG00000031209	ID_342	7	0.00	-0.12	-3.84	-3.99	0.286	0.020	0.263	0.018	Heph	Organismal Systems;Metabolism	Digestive system;Metabolism of cofactors and vitamins	K14735;K14735	--
+ENSMUSG00000031239	ID_343	7	0.00	-0.07	-1.32	-2.02	1.167	0.468	1.113	0.288	Itm2a	-	-	-	--
+ENSMUSG00000031271	ID_344	7	0.00	1.48	-3.72	-3.54	23.773	1.805	66.537	2.047	Serpina7	Organismal Systems	Endocrine system	K20734	--
+ENSMUSG00000031298	ID_345	7	0.00	1.54	-2.21	-3.32	0.180	0.039	0.523	0.018	Adgrg2	-	-	-	--
+ENSMUSG00000031342	ID_346	7	0.00	-0.58	-1.99	-2.20	0.504	0.127	0.336	0.110	Gpm6b	-	-	-	--
+ENSMUSG00000031343	ID_347	7	0.00	0.22	-0.74	-1.01	0.618	0.371	0.721	0.307	Gabra3	Environmental Information Processing;Organismal Systems;Human Diseases;Organismal Systems;Organismal Systems;Human Diseases	Signaling molecules and interaction;Nervous system;Substance dependence;Sensory system;Nervous system;Substance dependence	K05175;K05175;K05175;K05175;K05175;K05175	--
+ENSMUSG00000031387	ID_348	7	0.00	0.13	-0.66	-1.08	4.571	2.886	5.012	2.166	Renbp	Metabolism;Metabolism	Global and overview maps;Carbohydrate metabolism	K01787;K01787	--
+ENSMUSG00000031508	ID_349	7	0.00	0.20	-0.47	-0.92	1.756	1.266	2.020	0.930	Ankrd10	-	-	-	--
+ENSMUSG00000031523	ID_350	7	0.00	-0.09	-1.02	-0.60	5.731	2.824	5.371	3.776	Dlc1	-	-	-	--
+ENSMUSG00000031534	ID_351	7	0.00	-0.40	-1.36	-1.49	30.344	11.811	23.031	10.802	Smim19	-	-	-	--
+ENSMUSG00000031644	ID_352	7	0.00	-0.31	-1.20	-0.84	1.270	0.554	1.021	0.711	Nek1	-	-	-	--
+ENSMUSG00000031661	ID_353	7	0.00	0.19	-1.01	-0.66	5.494	2.723	6.281	3.478	Nkd1	Environmental Information Processing;Environmental Information Processing	Signal transduction;Signal transduction	K03213;K03213	--
+ENSMUSG00000031788	ID_354	7	0.00	-0.32	-1.47	-1.18	7.563	2.734	6.050	3.328	Kifc3	-	-	-	--
+ENSMUSG00000031808	ID_355	7	0.00	1.02	-1.32	-1.56	3.814	1.526	7.708	1.291	Slc27a1	Human Diseases;Organismal Systems;Organismal Systems	Endocrine and metabolic disease;Endocrine system;Digestive system	K08745;K08745;K08745	--
+ENSMUSG00000031853	ID_356	7	0.00	-0.35	-1.33	-1.09	1.602	0.637	1.255	0.750	Map3k21	-	-	-	--
+ENSMUSG00000031907	ID_357	7	0.00	-0.61	-1.94	-1.70	1.427	0.371	0.933	0.438	Zfp90	Human Diseases	Infectious disease: viral	K09228	zf-C2H2
+ENSMUSG00000031995	ID_358	7	0.00	0.12	-1.91	-1.21	0.833	0.222	0.905	0.359	St14	Human Diseases	Cancer: overview	K08670	--
+ENSMUSG00000032020	ID_359	7	0.00	0.40	-1.71	-1.83	0.285	0.087	0.377	0.080	Ubash3b	-	-	-	--
+ENSMUSG00000032064	ID_360	7	0.00	0.04	-1.69	-1.61	3.990	1.239	4.095	1.308	Dixdc1	-	-	-	--
+ENSMUSG00000032065	ID_361	7	0.00	0.48	-1.96	-2.66	1.179	0.304	1.648	0.187	Tex12	-	-	-	--
+ENSMUSG00000032076	ID_362	7	0.00	0.34	-0.68	-0.42	9.438	5.880	11.964	7.036	Cadm1	Environmental Information Processing	Signaling molecules and interaction	K06781	--
+ENSMUSG00000032112	ID_363	7	0.00	-0.17	-1.45	-0.99	20.073	7.351	17.865	10.110	Trappc4	-	-	-	--
+ENSMUSG00000032314	ID_364	7	0.00	0.14	-0.65	-1.22	241.474	153.979	265.918	103.868	Etfa	-	-	-	--
+ENSMUSG00000032316	ID_365	7	0.00	0.41	-0.47	-0.68	13.944	10.080	18.554	8.685	Clk3	-	-	-	--
+ENSMUSG00000032359	ID_366	7	0.00	0.22	-0.92	-0.82	347.360	184.172	404.355	196.326	Ctsh	Cellular Processes;Cellular Processes	Cell growth and death;Transport and catabolism	K01366;K01366	--
+ENSMUSG00000032376	ID_367	7	0.00	0.24	-0.94	-0.45	7.491	3.897	8.834	5.484	Usp3	-	-	-	--
+ENSMUSG00000032387	ID_368	7	0.00	-0.25	-0.99	-1.14	34.627	17.410	29.046	15.684	Rbpms2	-	-	-	--
+ENSMUSG00000032418	ID_369	7	0.00	-0.19	-1.26	-1.38	88.887	37.223	77.981	34.176	Me1	Metabolism;Metabolism;Organismal Systems;Metabolism	Global and overview maps;Global and overview maps;Endocrine system;Carbohydrate metabolism	K00029;K00029;K00029;K00029	--
+ENSMUSG00000032449	ID_370	7	0.00	0.19	-1.01	-1.68	0.860	0.426	0.980	0.269	Slc25a36	-	-	-	--
+ENSMUSG00000032531	ID_371	7	0.00	0.63	-0.75	-0.87	6.260	3.717	9.683	3.427	Amotl2	Cellular Processes	Cellular community - eukaryotes	K06104	--
+ENSMUSG00000032565	ID_372	7	0.00	-0.21	-1.56	-1.20	5.408	1.833	4.666	2.360	Nudt16	Metabolism;Metabolism;Genetic Information Processing	Global and overview maps;Nucleotide metabolism;Folding, sorting and degradation	K16855;K16855;K16855	--
+ENSMUSG00000032582	ID_373	7	0.00	0.57	-0.50	-0.58	6.642	4.696	9.838	4.439	Rbm6	-	-	-	--
+ENSMUSG00000032599	ID_374	7	0.00	0.06	-1.59	-0.78	26.045	8.655	27.198	15.219	Ip6k2	Environmental Information Processing	Signal transduction	K07756	--
+ENSMUSG00000032648	ID_375	7	0.00	0.38	-0.73	-0.83	0.584	0.351	0.761	0.328	Pygm	Metabolism;Cellular Processes;Organismal Systems;Human Diseases;Organismal Systems;Metabolism	Global and overview maps;Cell growth and death;Endocrine system;Endocrine and metabolic disease;Endocrine system;Carbohydrate metabolism	K00688;K00688;K00688;K00688;K00688;K00688	--
+ENSMUSG00000032657	ID_376	7	0.00	0.23	-0.83	-1.54	0.468	0.263	0.550	0.161	Entrep3	-	-	-	--
+ENSMUSG00000032691	ID_377	7	0.00	1.10	-1.44	-1.23	0.249	0.092	0.534	0.106	Nlrp3	Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Human Diseases;Cellular Processes;Organismal Systems;Human Diseases	Infectious disease: viral;Infectious disease: bacterial;Infectious disease: bacterial;Infectious disease: bacterial;Infectious disease: bacterial;Cardiovascular disease;Immune system;Infectious disease: viral;Cell growth and death;Immune system;Infectious disease: bacterial	K12800;K12800;K12800;K12800;K12800;K12800;K12800;K12800;K12800;K12800;K12800	--
+ENSMUSG00000032715	ID_378	7	0.00	-0.14	-2.70	-2.69	6.400	0.984	5.826	0.991	Trib3	Human Diseases	Endocrine and metabolic disease	K19518	--
+ENSMUSG00000032724	ID_379	7	0.00	-0.64	-1.52	-1.32	2.332	0.815	1.499	0.936	Abtb2	-	-	-	--
+ENSMUSG00000032754	ID_380	7	0.00	-0.03	-1.94	-1.19	14.754	3.848	14.461	6.445	Slc8b1	-	-	-	--
+ENSMUSG00000032782	ID_381	7	0.00	-0.28	-1.25	-1.08	1.734	0.727	1.424	0.823	Cntrob	-	-	-	--
+ENSMUSG00000032913	ID_382	7	0.00	-0.22	-1.09	-1.15	0.835	0.393	0.715	0.377	Lrig2	Organismal Systems	Development and regeneration	K24609	--
+ENSMUSG00000032997	ID_383	7	0.00	-0.02	-1.16	-1.37	1.419	0.633	1.396	0.550	Chpf	Metabolism;Metabolism	Global and overview maps;Glycan biosynthesis and metabolism	K00747;K00747	--
+ENSMUSG00000033029	ID_384	7	0.00	-1.44	-9.79	-9.79	0.887	0.000	0.328	0.000	1700088E04Rik	-	-	-	--
+ENSMUSG00000033033	ID_385	7	0.00	0.04	-1.58	-0.85	1.104	0.369	1.137	0.613	Calhm2	-	-	-	--
+ENSMUSG00000033055	ID_386	7	0.00	-0.11	-0.95	-1.23	6.504	3.378	6.017	2.769	Ankrd54	-	-	-	--
+ENSMUSG00000033159	ID_387	7	0.00	0.09	-1.74	-1.11	31.515	9.440	33.515	14.582	Cnppd1	-	-	-	--
+ENSMUSG00000033170	ID_388	7	0.00	-0.29	-1.20	-0.88	2.775	1.208	2.267	1.505	Card10	Environmental Information Processing	Signal transduction	K20912	--
+ENSMUSG00000033308	ID_389	7	0.00	0.30	-0.84	-0.79	99.347	55.601	122.231	57.408	Dpyd	Metabolism;Metabolism;Metabolism;Metabolism;Metabolism	Global and overview maps;Xenobiotics biodegradation and metabolism;Nucleotide metabolism;Metabolism of other amino acids;Metabolism of cofactors and vitamins	K00207;K00207;K00207;K00207;K00207	--
+ENSMUSG00000033313	ID_390	7	0.00	-0.35	-1.17	-1.05	1.824	0.810	1.430	0.880	Fbxl8	-	-	-	--
+ENSMUSG00000033327	ID_391	7	0.00	-0.11	-1.30	-1.78	1.581	0.642	1.469	0.461	Tnxb	Environmental Information Processing;Human Diseases;Cellular Processes;Human Diseases;Environmental Information Processing	Signal transduction;Infectious disease: viral;Cellular community - eukaryotes;Cancer: overview;Signaling molecules and interaction	K06252;K06252;K06252;K06252;K06252	--
+ENSMUSG00000033420	ID_392	7	0.00	0.16	-1.10	-0.78	0.574	0.268	0.641	0.334	Antxr1	Organismal Systems	Immune system	K20909	--
+ENSMUSG00000033434	ID_393	7	0.00	-0.24	-1.17	-1.30	5.914	2.633	4.993	2.409	Gtpbp6	-	-	-	--
+ENSMUSG00000033436	ID_394	7	0.00	0.20	-1.86	-0.89	0.877	0.241	1.007	0.473	Armcx2	-	-	-	--
+ENSMUSG00000033460	ID_395	7	0.00	-0.57	-1.45	-1.20	0.832	0.304	0.559	0.361	Armcx1	-	-	-	--
+ENSMUSG00000033676	ID_396	7	0.00	-0.17	-2.60	-1.37	0.297	0.049	0.264	0.115	Gabrb3	Environmental Information Processing;Organismal Systems;Organismal Systems;Human Diseases;Organismal Systems;Human Diseases	Signaling molecules and interaction;Nervous system;Nervous system;Substance dependence;Nervous system;Substance dependence	K05181;K05181;K05181;K05181;K05181;K05181	--
+ENSMUSG00000033705	ID_397	7	0.00	0.29	-2.30	-1.07	0.621	0.126	0.758	0.296	Stard9	-	-	-	--
+ENSMUSG00000033720	ID_398	7	0.00	-0.17	-1.31	-1.02	6.270	2.525	5.562	3.100	Sfxn5	-	-	-	--
+ENSMUSG00000033768	ID_399	7	0.00	0.32	-0.94	-1.04	0.398	0.207	0.496	0.193	Nrxn2	Environmental Information Processing	Signaling molecules and interaction	K07377	--
+ENSMUSG00000033788	ID_400	7	0.00	-0.20	-2.12	-1.11	1.030	0.237	0.898	0.477	Dysf	-	-	-	--
+ENSMUSG00000033805	ID_401	7	0.00	1.21	-7.88	-7.88	0.236	0.000	0.546	0.000	Ephx4	Human Diseases;Human Diseases	Cancer: overview;Cancer: overview	K22369;K22369	--
+ENSMUSG00000033845	ID_402	7	0.00	0.07	-1.08	-1.28	38.154	18.105	40.003	15.711	Mrpl15	Genetic Information Processing	Translation	K02876	--
+ENSMUSG00000034041	ID_403	7	0.00	-0.82	-2.17	-2.13	1.423	0.317	0.804	0.325	Lyl1	Human Diseases	Cancer: overview	K15604	bHLH
+ENSMUSG00000034235	ID_404	7	0.00	0.20	-1.30	-0.94	0.720	0.293	0.825	0.374	Usp54	-	-	-	--
+ENSMUSG00000034255	ID_405	7	0.00	-0.44	-1.25	-1.25	1.473	0.619	1.089	0.619	Arhgap27	-	-	-	--
+ENSMUSG00000034330	ID_406	7	0.00	0.04	-1.29	-1.03	1.035	0.422	1.066	0.506	Plcg2	Metabolism;Human Diseases;Human Diseases;Environmental Information Processing;Human Diseases;Organismal Systems;Environmental Information Processing;Human Diseases;Human Diseases;Organismal Systems;Environmental Information Processing;Environmental Information Processing;Human Diseases;Organismal Systems;Human Diseases;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Human Diseases;Human Diseases;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Environmental Information Processing;Organismal Systems;Human Diseases;Environmental Information Processing;Environmental Information Processing;Human Diseases;Human Diseases;Metabolism;Human Diseases;Human Diseases;Environmental Information Processing;Human Diseases	Global and overview maps;Cancer: overview;Infectious disease: viral;Signal transduction;Infectious disease: viral;Immune system;Signal transduction;Infectious disease: bacterial;Infectious disease: viral;Immune system;Signal transduction;Signal transduction;Infectious disease: viral;Immune system;Cancer: overview;Immune system;Immune system;Immune system;Development and regeneration;Cancer: specific types;Cancer: overview;Sensory system;Development and regeneration;Immune system;Nervous system;Endocrine system;Immune system;Endocrine system;Signal transduction;Immune system;Endocrine and metabolic disease;Signal transduction;Signal transduction;Drug resistance: antineoplastic;Cancer: specific types;Carbohydrate metabolism;Cancer: specific types;Infectious disease: bacterial;Signal transduction;Infectious disease: bacterial	K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859;K05859	--
+ENSMUSG00000034353	ID_407	7	0.00	-0.41	-1.21	-1.08	3.956	1.714	2.972	1.871	Ramp1	Organismal Systems	Circulatory system	K08447	--
+ENSMUSG00000034379	ID_408	7	0.00	0.00	-0.90	-1.01	1.046	0.562	1.049	0.519	Wdr5b	Human Diseases	Endocrine and metabolic disease	K14963	--
+ENSMUSG00000034412	ID_409	7	0.00	-0.40	-1.40	-1.24	8.835	3.348	6.710	3.753	Tbc1d10a	-	-	-	--
+ENSMUSG00000034463	ID_410	7	0.00	-0.21	-2.41	-1.70	3.479	0.655	3.001	1.070	Scara3	-	-	-	--
+ENSMUSG00000034509	ID_411	7	0.00	0.03	-0.69	-1.03	7.230	4.487	7.387	3.552	Mad2l1bp	-	-	-	--
+ENSMUSG00000034518	ID_412	7	0.00	0.15	-1.34	-0.85	1.837	0.726	2.032	1.017	Hmgxb4	-	-	-	HMG
+ENSMUSG00000034522	ID_413	7	0.00	0.82	-1.25	-0.48	7.718	3.256	13.661	5.520	Zfp395	-	-	-	Others
+ENSMUSG00000034528	ID_414	7	0.00	0.51	-0.97	-1.40	189.923	96.983	269.723	71.728	Hsd17b13	-	-	-	--
+ENSMUSG00000034612	ID_415	7	0.00	0.49	-3.23	-3.32	0.150	0.016	0.211	0.015	Chst11	Metabolism	Glycan biosynthesis and metabolism	K01017	--
+ENSMUSG00000034675	ID_416	7	0.00	-0.23	-1.08	-1.27	1.565	0.740	1.335	0.651	Dbn1	-	-	-	--
+ENSMUSG00000034686	ID_417	7	0.00	-1.77	-8.60	-8.60	0.388	0.000	0.114	0.000	Prr7	-	-	-	--
+ENSMUSG00000034771	ID_418	7	0.00	-0.24	-1.42	-1.54	3.286	1.229	2.773	1.131	Tle2	Environmental Information Processing;Environmental Information Processing;Environmental Information Processing	Signal transduction;Signal transduction;Signal transduction	K04497;K04497;K04497	--
+ENSMUSG00000034783	ID_419	7	0.00	0.36	-1.47	-1.36	2.972	1.071	3.826	1.154	Cd207	-	-	-	--
+ENSMUSG00000034911	ID_420	7	0.00	-0.71	-1.65	-1.46	3.492	1.110	2.139	1.265	Ushbp1	-	-	-	--
+ENSMUSG00000034923	ID_421	7	0.00	-1.76	-8.85	-8.85	0.462	0.000	0.136	0.000	Ly6g6f	-	-	-	--
+ENSMUSG00000034959	ID_422	7	0.00	0.15	-1.43	-2.55	0.370	0.137	0.410	0.063	Rubcnl	-	-	-	--
+ENSMUSG00000035112	ID_423	7	0.00	0.95	-3.83	-2.19	0.370	0.026	0.715	0.081	Wnk4	-	-	-	--
+ENSMUSG00000035206	ID_424	7	0.00	0.18	-0.91	-0.57	3.358	1.790	3.795	2.262	Sppl2b	-	-	-	--
+ENSMUSG00000035242	ID_425	7	0.00	-0.37	-1.46	-1.55	495.731	180.390	382.957	169.757	Oaz1	-	-	-	--
+ENSMUSG00000035305	ID_426	7	0.00	0.25	-1.67	-1.21	0.602	0.189	0.714	0.261	Ror1	Environmental Information Processing	Signal transduction	K05122	--
+ENSMUSG00000035413	ID_427	7	0.00	-0.25	-1.13	-0.72	19.896	9.098	16.785	12.092	Tmem98	-	-	-	--
+ENSMUSG00000035451	ID_428	7	0.00	-0.20	-1.59	-1.77	3.945	1.306	3.431	1.154	Foxa1	-	-	-	Fork_head
+ENSMUSG00000035493	ID_429	7	0.00	0.35	-0.73	-0.69	26.268	15.871	33.532	16.247	Tgfbi	-	-	-	--
+ENSMUSG00000035566	ID_430	7	0.00	0.84	-1.14	-1.27	0.053	0.024	0.095	0.022	Pcdh17	-	-	-	--
+ENSMUSG00000035585	ID_431	7	0.00	-0.17	-0.99	-1.15	34.387	17.348	30.655	15.484	Tsen34	-	-	-	--
+ENSMUSG00000035673	ID_432	7	0.00	-0.06	-1.01	-0.75	5.883	2.913	5.650	3.497	Sbno2	-	-	-	--
+ENSMUSG00000035762	ID_433	7	0.00	-0.12	-1.00	-1.28	1.971	0.984	1.816	0.813	Tmem161b	-	-	-	--
+ENSMUSG00000035799	ID_434	7	0.00	1.24	-2.53	-2.67	0.324	0.056	0.763	0.051	Twist1	Human Diseases	Cancer: overview	K09069	bHLH
+ENSMUSG00000035878	ID_435	7	0.00	0.80	-0.93	-0.50	15.903	8.350	27.687	11.249	Hykk	Metabolism;Metabolism	Global and overview maps;Amino acid metabolism	K18201;K18201	--
+ENSMUSG00000035958	ID_436	7	0.00	0.00	-1.08	-0.89	9.206	4.366	9.234	4.954	Tdp2	-	-	-	--
+ENSMUSG00000036083	ID_437	7	0.00	-0.19	-1.42	-1.21	25.703	9.626	22.472	11.121	Slc17a3	-	-	-	--
+ENSMUSG00000036110	ID_438	7	0.00	0.56	-1.18	-1.70	37.368	16.459	55.157	11.471	Slc17a2	-	-	-	--
+ENSMUSG00000036138	ID_439	7	0.00	0.37	-0.90	-1.34	144.318	77.466	186.483	57.139	Acaa1a	Metabolism;Organismal Systems;Cellular Processes;Metabolism;Metabolism;Metabolism;Metabolism;Metabolism	Global and overview maps;Endocrine system;Transport and catabolism;Global and overview maps;Amino acid metabolism;Lipid metabolism;Lipid metabolism;Lipid metabolism	K07513;K07513;K07513;K07513;K07513;K07513;K07513;K07513	--
+ENSMUSG00000036206	ID_440	7	0.00	0.30	-1.32	-1.21	0.543	0.218	0.668	0.235	Sh3bp4	-	-	-	--
+ENSMUSG00000036246	ID_441	7	0.00	-0.10	-1.15	-1.24	1.384	0.622	1.295	0.585	Gmip	-	-	-	--
+ENSMUSG00000036270	ID_442	7	0.00	0.21	-0.80	-0.76	3.509	2.009	4.047	2.074	Edc4	Genetic Information Processing	Folding, sorting and degradation	K12616	--
+ENSMUSG00000036352	ID_443	7	0.00	0.70	-0.70	-0.61	7.693	4.733	12.536	5.028	Ubac1	-	-	-	--
+ENSMUSG00000036442	ID_444	7	0.00	0.03	-0.72	-1.17	9.697	5.877	9.904	4.324	Thap11	-	-	-	THAP
+ENSMUSG00000036513	ID_445	7	0.00	-0.12	-1.02	-0.64	8.940	4.401	8.239	5.724	Commd2	-	-	-	--
+ENSMUSG00000036552	ID_446	7	0.00	0.01	-1.23	-0.81	7.232	3.082	7.286	4.125	Ermard	-	-	-	--
+ENSMUSG00000036943	ID_447	7	0.00	-0.60	-1.91	-1.57	1.370	0.364	0.902	0.460	Rab8b	Cellular Processes	Cellular community - eukaryotes	K07902	--
+ENSMUSG00000037017	ID_448	7	0.00	-0.15	-0.98	-1.32	9.940	5.032	8.986	3.995	Zscan21	-	-	-	zf-C2H2
+ENSMUSG00000037190	ID_449	7	0.00	0.14	-1.01	-1.35	7.156	3.541	7.888	2.815	Cyb561d2	-	-	-	--
+ENSMUSG00000037234	ID_450	7	0.00	0.46	-0.56	-0.54	3.014	2.047	4.147	2.073	Hook3	-	-	-	--
+ENSMUSG00000037316	ID_451	7	0.00	0.51	-0.66	-0.29	4.422	2.805	6.306	3.621	Bag4	Environmental Information Processing	Signal transduction	K09558	--
+ENSMUSG00000037363	ID_452	7	0.00	-0.05	-1.42	-1.12	1.366	0.511	1.315	0.630	Letm2	-	-	-	--
+ENSMUSG00000037415	ID_453	7	0.00	0.26	-1.21	-1.06	10.680	4.625	12.830	5.139	Ranbp10	-	-	-	--
+ENSMUSG00000037419	ID_454	7	0.00	-0.52	-1.54	-1.35	2.715	0.932	1.893	1.067	Endod1	-	-	-	--
+ENSMUSG00000037548	ID_455	7	0.00	-0.15	-1.03	-1.30	1.343	0.656	1.212	0.544	H2-DMb2	Human Diseases;Human Diseases;Human Diseases;Cellular Processes;Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Environmental Information Processing;Organismal Systems;Human Diseases;Human Diseases;Organismal Systems;Organismal Systems;Organismal Systems;Human Diseases;Human Diseases;Human Diseases	Infectious disease: viral;Infectious disease: viral;Infectious disease: bacterial;Transport and catabolism;Immune disease;Infectious disease: bacterial;Infectious disease: viral;Immune system;Immune disease;Cardiovascular disease;Immune disease;Infectious disease: parasitic;Immune disease;Infectious disease: viral;Signaling molecules and interaction;Immune system;Immune disease;Infectious disease: parasitic;Immune system;Immune system;Immune system;Endocrine and metabolic disease;Immune disease;Immune disease	K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752	--
+ENSMUSG00000037570	ID_456	7	0.00	0.34	-0.59	-0.70	4.466	2.960	5.649	2.756	Mcrs1	-	-	-	--
+ENSMUSG00000037580	ID_457	7	0.00	-0.07	-1.00	-1.11	95.892	47.956	91.473	44.323	Gch1	Metabolism;Metabolism	Global and overview maps;Metabolism of cofactors and vitamins	K01495;K01495	--
+ENSMUSG00000037661	ID_458	7	0.00	-0.62	-2.35	-2.46	0.544	0.107	0.353	0.099	Gpr160	-	-	-	--
+ENSMUSG00000037759	ID_459	7	0.00	-0.34	-1.37	-1.62	0.696	0.270	0.548	0.227	Ptger2	Human Diseases;Environmental Information Processing;Human Diseases;Environmental Information Processing;Organismal Systems;Organismal Systems	Cancer: overview;Signaling molecules and interaction;Infectious disease: viral;Signal transduction;Sensory system;Endocrine system	K04259;K04259;K04259;K04259;K04259;K04259	--
+ENSMUSG00000037761	ID_460	7	0.00	-0.22	-1.16	-1.27	2.856	1.282	2.457	1.184	Actr5	-	-	-	--
+ENSMUSG00000037762	ID_461	7	0.00	0.22	-1.35	-0.64	1.044	0.410	1.220	0.668	Slc16a9	-	-	-	--
+ENSMUSG00000037826	ID_462	7	0.00	0.28	-1.16	-1.62	11.793	5.272	14.292	3.845	Ppm1k	-	-	-	--
+ENSMUSG00000037922	ID_463	7	0.00	-0.15	-2.74	-1.64	0.953	0.143	0.856	0.305	Bank1	-	-	-	--
+ENSMUSG00000037938	ID_464	7	0.00	-0.41	-1.18	-1.21	22.643	9.982	17.054	9.788	Chchd5	-	-	-	--
+ENSMUSG00000037946	ID_465	7	0.00	0.30	-0.85	-1.38	0.417	0.231	0.512	0.160	Fgd3	Cellular Processes	Cell motility	K05722	--
+ENSMUSG00000037960	ID_466	7	0.00	0.36	-0.77	-1.24	10.782	6.310	13.811	4.579	Card19	-	-	-	--
+ENSMUSG00000037992	ID_467	7	0.00	0.69	-0.85	-0.83	7.010	3.879	11.306	3.951	Rara	Human Diseases;Human Diseases;Organismal Systems;Organismal Systems;Human Diseases	Cancer: overview;Cancer: overview;Endocrine system;Immune system;Cancer: specific types	K08527;K08527;K08527;K08527;K08527	THR-like
+ENSMUSG00000038022	ID_468	7	0.00	0.16	-1.48	-0.82	0.772	0.276	0.865	0.436	Mindy4	-	-	-	--
+ENSMUSG00000038034	ID_469	7	0.00	-0.25	-1.07	-1.02	7.946	3.778	6.680	3.928	Igsf8	-	-	-	--
+ENSMUSG00000038065	ID_470	7	0.00	-0.07	-1.17	-1.02	0.384	0.171	0.366	0.189	Mturn	-	-	-	--
+ENSMUSG00000038188	ID_471	7	0.00	-0.23	-1.80	-2.19	3.953	1.137	3.366	0.869	Scarf1	-	-	-	--
+ENSMUSG00000038195	ID_472	7	0.00	-0.01	-0.83	-1.01	22.023	12.351	21.798	10.902	Rilp	Cellular Processes;Human Diseases	Transport and catabolism;Infectious disease: bacterial	K13883;K13883	--
+ENSMUSG00000038208	ID_473	7	0.00	-0.09	-0.87	-1.07	1.091	0.599	1.027	0.519	Pgap3	-	-	-	--
+ENSMUSG00000038217	ID_474	7	0.00	-0.35	-2.03	-2.31	100.478	24.583	78.578	20.325	Tlcd2	-	-	-	--
+ENSMUSG00000038280	ID_475	7	0.00	-0.37	-1.27	-1.04	4.564	1.899	3.539	2.227	Ostm1	-	-	-	--
+ENSMUSG00000038403	ID_476	7	0.00	-0.19	-1.04	-0.97	50.999	24.747	44.645	26.117	Hjv	Environmental Information Processing	Signal transduction	K23100	--
+ENSMUSG00000038515	ID_477	7	0.00	0.41	-1.33	-1.26	21.639	8.625	28.685	9.009	Grtp1	-	-	-	--
+ENSMUSG00000038520	ID_478	7	0.00	-0.31	-1.54	-1.60	31.945	10.951	25.799	10.561	Tbc1d17	Cellular Processes	Transport and catabolism	K19945	--
+ENSMUSG00000038522	ID_479	7	0.00	0.28	-0.71	-0.85	17.205	10.524	20.943	9.533	Mfsd4b1	-	-	-	--
+ENSMUSG00000038523	ID_480	7	0.00	0.27	-9.33	-9.33	0.642	0.000	0.772	0.000	1700003F12Rik	-	-	-	--
+ENSMUSG00000038535	ID_481	7	0.00	-0.12	-1.08	-1.10	2.470	1.169	2.276	1.153	Zfp280d	-	-	-	Others
+ENSMUSG00000038685	ID_482	7	0.00	0.34	-0.52	-0.68	3.318	2.313	4.188	2.071	Rtel1	-	-	-	--
+ENSMUSG00000038705	ID_483	7	0.00	-0.20	-0.91	-1.13	3.687	1.958	3.203	1.685	Gmeb2	-	-	-	SAND
+ENSMUSG00000038754	ID_484	7	0.00	-0.45	-4.24	-3.14	3.715	0.196	2.714	0.420	Elovl3	Metabolism;Metabolism;Metabolism;Metabolism	Global and overview maps;Global and overview maps;Lipid metabolism;Lipid metabolism	K10248;K10248;K10248;K10248	--
+ENSMUSG00000038806	ID_485	7	0.00	-0.38	-1.10	-0.95	4.364	2.030	3.359	2.266	Sde2	-	-	-	--
+ENSMUSG00000038845	ID_486	7	0.00	0.09	-0.66	-1.12	144.878	91.826	154.273	66.804	Phb	-	-	-	Others
+ENSMUSG00000038894	ID_487	7	0.00	0.18	-1.73	-0.95	7.439	2.235	8.424	3.838	Irs2	Human Diseases;Environmental Information Processing;Human Diseases;Human Diseases;Cellular Processes;Organismal Systems;Environmental Information Processing;Environmental Information Processing;Organismal Systems;Human Diseases;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Human Diseases	Neurodegenerative disease;Signal transduction;Cancer: overview;Endocrine and metabolic disease;Transport and catabolism;Endocrine system;Signal transduction;Signal transduction;Endocrine system;Endocrine and metabolic disease;Aging;Endocrine system;Aging;Endocrine system;Endocrine and metabolic disease	K07187;K07187;K07187;K07187;K07187;K07187;K07187;K07187;K07187;K07187;K07187;K07187;K07187;K07187;K07187	--
+ENSMUSG00000038936	ID_488	7	0.00	-0.50	-2.04	-1.49	2.537	0.616	1.794	0.902	Sccpdh	-	-	-	--
+ENSMUSG00000038975	ID_489	7	0.00	0.15	-0.71	-1.39	28.648	17.531	31.783	10.968	Rabggtb	-	-	-	--
+ENSMUSG00000038984	ID_490	7	0.00	2.93	-5.25	-5.25	0.038	0.000	0.290	0.000	Tspyl5	-	-	-	--
+ENSMUSG00000039081	ID_491	7	0.00	0.29	-0.67	-1.24	0.375	0.236	0.460	0.159	Zfp503	-	-	-	Others
+ENSMUSG00000039178	ID_492	7	0.00	-0.07	-1.47	-0.75	1.547	0.558	1.469	0.920	Tbc1d19	-	-	-	--
+ENSMUSG00000039208	ID_493	7	0.00	-0.25	-1.28	-1.13	4.719	1.940	3.972	2.152	Metrnl	-	-	-	--
+ENSMUSG00000039263	ID_494	7	0.00	-0.20	-1.05	-0.65	26.070	12.559	22.727	16.619	Npepl1	-	-	-	--
+ENSMUSG00000039264	ID_495	7	0.00	-0.65	-1.72	-1.54	2.503	0.760	1.593	0.858	Gimap3	-	-	-	--
+ENSMUSG00000039349	ID_496	7	0.00	0.30	-0.85	-0.90	58.717	32.685	72.380	31.511	C130074G19Rik	-	-	-	--
+ENSMUSG00000039640	ID_497	7	0.00	-0.08	-1.07	-1.27	140.627	66.911	132.819	58.113	Mrpl12	Genetic Information Processing	Translation	K02935	--
+ENSMUSG00000039653	ID_498	7	0.00	0.05	-0.94	-0.97	161.524	84.477	166.782	82.379	Baat	Metabolism;Organismal Systems;Cellular Processes;Metabolism;Metabolism;Metabolism	Global and overview maps;Digestive system;Transport and catabolism;Lipid metabolism;Metabolism of other amino acids;Lipid metabolism	K00659;K00659;K00659;K00659;K00659;K00659	--
+ENSMUSG00000039713	ID_499	7	0.00	0.32	-1.06	-0.45	1.328	0.636	1.662	0.973	Plekhg5	Human Diseases	Cancer: overview	K19464	--
+ENSMUSG00000039715	ID_500	7	0.00	0.25	-1.32	-1.11	2.992	1.199	3.553	1.384	Dync2i2	-	-	-	--
+ENSMUSG00000039795	ID_501	7	0.00	-0.05	-0.85	-1.02	16.247	9.003	15.675	8.031	Zfand1	-	-	-	--
+ENSMUSG00000039879	ID_502	7	0.00	0.38	-0.76	-0.66	4.214	2.488	5.483	2.675	Heca	-	-	-	--
+ENSMUSG00000039899	ID_503	7	0.00	-0.41	-2.58	-1.95	1.711	0.287	1.291	0.442	Fgl2	-	-	-	--
+ENSMUSG00000039911	ID_504	7	0.00	0.94	-0.81	-0.92	0.512	0.293	0.979	0.271	Spsb1	-	-	-	--
+ENSMUSG00000039917	ID_505	7	0.00	0.41	-0.88	-0.86	5.604	3.036	7.440	3.085	Rhbdd2	-	-	-	--
+ENSMUSG00000039942	ID_506	7	0.00	-0.32	-2.53	-1.65	0.323	0.056	0.258	0.103	Ptger4	Human Diseases;Environmental Information Processing;Human Diseases;Human Diseases;Organismal Systems;Organismal Systems	Cancer: overview;Signaling molecules and interaction;Infectious disease: viral;Infectious disease: viral;Sensory system;Endocrine system	K04261;K04261;K04261;K04261;K04261;K04261	--
+ENSMUSG00000039943	ID_507	7	0.00	0.36	-1.47	-0.66	0.655	0.236	0.841	0.414	Plcb4	Metabolism;Human Diseases;Human Diseases;Human Diseases;Environmental Information Processing;Organismal Systems;Human Diseases;Environmental Information Processing;Human Diseases;Human Diseases;Human Diseases;Environmental Information Processing;Human Diseases;Organismal Systems;Human Diseases;Organismal Systems;Environmental Information Processing;Environmental Information Processing;Human Diseases;Human Diseases;Organismal Systems;Organismal Systems;Organismal Systems;Human Diseases;Organismal Systems;Organismal Systems;Environmental Information Processing;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Environmental Information Processing;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Human Diseases;Organismal Systems;Organismal Systems;Human Diseases;Organismal Systems;Organismal Systems;Environmental Information Processing;Organismal Systems;Organismal Systems;Organismal Systems;Cellular Processes;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Metabolism;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems	Global and overview maps;Cancer: overview;Neurodegenerative disease;Neurodegenerative disease;Signal transduction;Immune system;Neurodegenerative disease;Signal transduction;Infectious disease: bacterial;Infectious disease: viral;Infectious disease: parasitic;Signal transduction;Cardiovascular disease;Immune system;Cardiovascular disease;Immune system;Signal transduction;Signal transduction;Endocrine and metabolic disease;Infectious disease: parasitic;Endocrine system;Nervous system;Circulatory system;Neurodegenerative disease;Circulatory system;Nervous system;Signal transduction;Endocrine system;Endocrine system;Nervous system;Sensory system;Immune system;Signal transduction;Endocrine system;Endocrine system;Nervous system;Nervous system;Digestive system;Endocrine system;Infectious disease: parasitic;Endocrine system;Endocrine system;Endocrine and metabolic disease;Environmental adaptation;Endocrine system;Signal transduction;Development and regeneration;Endocrine system;Sensory system;Cellular community - eukaryotes;Digestive system;Endocrine system;Endocrine system;Digestive system;Carbohydrate metabolism;Endocrine system;Endocrine system;Nervous system;Endocrine system;Nervous system;Excretory system;Digestive system;Sensory system	K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858	--
+ENSMUSG00000039958	ID_508	7	0.00	0.45	-1.37	-1.76	10.890	4.219	14.862	3.221	Etfbkmt	-	-	-	--
+ENSMUSG00000040061	ID_509	7	0.00	0.37	-1.59	-0.71	0.425	0.141	0.550	0.260	Plcb2	Metabolism;Human Diseases;Human Diseases;Human Diseases;Environmental Information Processing;Organismal Systems;Human Diseases;Environmental Information Processing;Human Diseases;Human Diseases;Human Diseases;Environmental Information Processing;Human Diseases;Organismal Systems;Human Diseases;Organismal Systems;Environmental Information Processing;Environmental Information Processing;Human Diseases;Human Diseases;Organismal Systems;Organismal Systems;Organismal Systems;Human Diseases;Organismal Systems;Organismal Systems;Environmental Information Processing;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Environmental Information Processing;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Human Diseases;Organismal Systems;Organismal Systems;Human Diseases;Organismal Systems;Organismal Systems;Environmental Information Processing;Organismal Systems;Organismal Systems;Organismal Systems;Cellular Processes;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Metabolism;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems	Global and overview maps;Cancer: overview;Neurodegenerative disease;Neurodegenerative disease;Signal transduction;Immune system;Neurodegenerative disease;Signal transduction;Infectious disease: bacterial;Infectious disease: viral;Infectious disease: parasitic;Signal transduction;Cardiovascular disease;Immune system;Cardiovascular disease;Immune system;Signal transduction;Signal transduction;Endocrine and metabolic disease;Infectious disease: parasitic;Endocrine system;Nervous system;Circulatory system;Neurodegenerative disease;Circulatory system;Nervous system;Signal transduction;Endocrine system;Endocrine system;Nervous system;Sensory system;Immune system;Signal transduction;Endocrine system;Endocrine system;Nervous system;Nervous system;Digestive system;Endocrine system;Infectious disease: parasitic;Endocrine system;Endocrine system;Endocrine and metabolic disease;Environmental adaptation;Endocrine system;Signal transduction;Development and regeneration;Endocrine system;Sensory system;Cellular community - eukaryotes;Digestive system;Endocrine system;Endocrine system;Digestive system;Carbohydrate metabolism;Endocrine system;Endocrine system;Nervous system;Endocrine system;Nervous system;Excretory system;Digestive system;Sensory system	K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858;K05858	--
+ENSMUSG00000040112	ID_510	7	0.00	0.39	-0.89	-1.62	14.617	7.879	19.182	4.765	Mrps35	-	-	-	--
+ENSMUSG00000040146	ID_511	7	0.00	-0.41	-1.44	-1.35	11.215	4.132	8.427	4.408	Rgl3	-	-	-	--
+ENSMUSG00000040212	ID_512	7	0.00	-0.07	-1.12	-1.50	9.320	4.289	8.850	3.297	Emp3	-	-	-	--
+ENSMUSG00000040283	ID_513	7	0.00	0.29	-0.71	-0.97	0.901	0.550	1.104	0.460	Btnl9	-	-	-	--
+ENSMUSG00000040339	ID_514	7	0.00	-0.23	-1.27	-1.12	0.407	0.169	0.347	0.187	Fam102b	-	-	-	--
+ENSMUSG00000040380	ID_515	7	0.00	-1.23	-3.99	-3.15	0.301	0.019	0.128	0.034	Cbln3	-	-	-	--
+ENSMUSG00000040414	ID_516	7	0.00	-0.13	-1.55	-0.93	14.873	5.075	13.608	7.795	Slc25a28	-	-	-	--
+ENSMUSG00000040471	ID_517	7	0.00	-0.38	-2.13	-2.77	18.541	4.236	14.212	2.725	Ggt6	Metabolism;Metabolism;Metabolism	Global and overview maps;Metabolism of other amino acids;Metabolism of other amino acids	K00681;K00681;K00681	--
+ENSMUSG00000040583	ID_518	7	0.00	1.34	-2.04	-2.98	89.937	21.845	228.159	11.379	Cyp2b13	Metabolism;Human Diseases;Metabolism;Metabolism;Metabolism	Global and overview maps;Cancer: overview;Metabolism of cofactors and vitamins;Lipid metabolism;Lipid metabolism	K07412;K07412;K07412;K07412;K07412	--
+ENSMUSG00000040612	ID_519	7	0.00	0.23	-2.35	-2.06	4.468	0.878	5.242	1.074	Ildr2	-	-	-	--
+ENSMUSG00000040663	ID_520	7	0.00	0.43	-1.85	-0.97	0.531	0.147	0.715	0.272	Clcf1	Environmental Information Processing	Signaling molecules and interaction	K05421	--
+ENSMUSG00000040813	ID_521	7	0.00	0.04	-0.93	-1.12	72.261	38.044	74.440	33.132	Tex264	-	-	-	--
+ENSMUSG00000040943	ID_522	7	0.00	0.08	-1.41	-0.84	0.682	0.257	0.722	0.380	Tet2	-	-	-	Others
+ENSMUSG00000041078	ID_523	7	0.00	-0.07	-1.83	-1.96	0.171	0.048	0.163	0.044	Grid1	Environmental Information Processing	Signaling molecules and interaction	K05206	--
+ENSMUSG00000041261	ID_524	7	0.00	-0.02	-0.81	-1.28	20.465	11.638	20.193	8.404	Car8	Metabolism;Metabolism	Global and overview maps;Energy metabolism	K01672;K01672	--
+ENSMUSG00000041293	ID_525	7	0.00	-1.60	-5.93	-6.06	1.467	0.024	0.484	0.022	Adgrf1	-	-	-	--
+ENSMUSG00000041319	ID_526	7	0.00	0.25	-0.78	-0.34	3.339	1.940	3.981	2.640	Thoc6	Genetic Information Processing	Translation	K13175	--
+ENSMUSG00000041346	ID_527	7	0.00	0.29	-0.72	-0.48	4.345	2.635	5.297	3.120	Wrap53	-	-	-	--
+ENSMUSG00000041684	ID_528	7	0.00	-0.34	-1.11	-1.21	4.430	2.051	3.494	1.919	Bivm	-	-	-	--
+ENSMUSG00000041754	ID_529	7	0.00	-2.77	-9.05	-9.05	0.531	0.000	0.078	0.000	Trem3	-	-	-	--
+ENSMUSG00000041773	ID_530	7	0.00	0.42	-1.79	-1.20	2.307	0.669	3.082	1.007	Enc1	-	-	-	--
+ENSMUSG00000042138	ID_531	7	0.00	0.12	-0.93	-0.98	2.470	1.292	2.678	1.251	Msantd2	-	-	-	--
+ENSMUSG00000042155	ID_532	7	0.00	0.36	-1.74	-0.85	0.261	0.078	0.336	0.145	Klhl23	-	-	-	--
+ENSMUSG00000042215	ID_533	7	0.00	0.04	-1.01	-0.71	1.175	0.584	1.211	0.720	Bag2	Genetic Information Processing	Folding, sorting and degradation	K09556	--
+ENSMUSG00000042271	ID_534	7	0.00	0.43	-0.60	-0.29	7.091	4.669	9.534	5.800	Nxt2	Human Diseases;Human Diseases;Genetic Information Processing;Genetic Information Processing;Genetic Information Processing	Neurodegenerative disease;Infectious disease: viral;Translation;Translation;Translation	K14285;K14285;K14285;K14285;K14285	--
+ENSMUSG00000042312	ID_535	7	0.00	-0.26	-1.87	-2.42	56.511	15.458	47.133	10.532	S100a13	-	-	-	--
+ENSMUSG00000042404	ID_536	7	0.00	-0.47	-1.44	-1.28	1.237	0.456	0.892	0.509	Dennd4b	-	-	-	--
+ENSMUSG00000042419	ID_537	7	0.00	-0.35	-1.65	-1.74	10.055	3.193	7.888	3.007	Nfkbil1	-	-	-	--
+ENSMUSG00000042429	ID_538	7	0.00	1.09	-1.28	-1.72	2.595	1.065	5.511	0.789	Adora1	Environmental Information Processing;Environmental Information Processing;Environmental Information Processing;Environmental Information Processing;Human Diseases;Organismal Systems;Organismal Systems	Signaling molecules and interaction;Signal transduction;Signal transduction;Signal transduction;Substance dependence;Endocrine system;Endocrine system	K04265;K04265;K04265;K04265;K04265;K04265;K04265	--
+ENSMUSG00000042622	ID_539	7	0.00	0.11	-1.04	-0.74	4.116	1.997	4.427	2.471	Maff	-	-	-	TF_bZIP
+ENSMUSG00000042759	ID_540	7	0.00	0.48	-0.96	-0.33	0.573	0.295	0.801	0.457	Apobr	-	-	-	--
+ENSMUSG00000042817	ID_541	7	0.00	0.33	-7.54	-7.54	0.186	0.000	0.234	0.000	Flt3	Human Diseases;Environmental Information Processing;Human Diseases;Environmental Information Processing;Environmental Information Processing;Organismal Systems;Human Diseases;Human Diseases	Cancer: overview;Signal transduction;Cancer: overview;Signal transduction;Signal transduction;Immune system;Cancer: specific types;Cancer: overview	K05092;K05092;K05092;K05092;K05092;K05092;K05092;K05092	--
+ENSMUSG00000042834	ID_542	7	0.00	-0.58	-2.45	-2.00	14.746	2.695	9.887	3.698	Nrep	-	-	-	--
+ENSMUSG00000043015	ID_543	7	0.00	0.72	-2.00	-0.92	0.232	0.058	0.383	0.123	Nemp2	-	-	-	--
+ENSMUSG00000043068	ID_544	7	0.00	-1.10	-2.78	-2.72	10.705	1.557	4.991	1.626	Fam89a	-	-	-	--
+ENSMUSG00000043290	ID_545	7	0.00	0.49	-0.56	-0.59	1.566	1.065	2.198	1.038	Zfp784	-	-	-	zf-C2H2
+ENSMUSG00000043448	ID_546	7	0.00	-0.47	-2.06	-1.59	0.695	0.167	0.501	0.231	Gjc2	-	-	-	--
+ENSMUSG00000043895	ID_547	7	0.00	-0.36	-1.12	-1.03	1.014	0.468	0.789	0.497	S1pr2	Environmental Information Processing;Environmental Information Processing	Signaling molecules and interaction;Signal transduction	K04292;K04292	--
+ENSMUSG00000044005	ID_548	7	0.00	0.27	-0.53	-0.82	238.415	165.606	288.431	135.202	Gls2	Metabolism;Human Diseases;Organismal Systems;Organismal Systems;Human Diseases;Metabolism;Organismal Systems;Metabolism;Metabolism	Global and overview maps;Cancer: overview;Nervous system;Nervous system;Cancer: overview;Amino acid metabolism;Excretory system;Amino acid metabolism;Metabolism of other amino acids	K01425;K01425;K01425;K01425;K01425;K01425;K01425;K01425;K01425	--
+ENSMUSG00000044134	ID_549	7	0.00	-0.57	-1.71	-1.48	6.522	1.989	4.394	2.332	Pheta1	-	-	-	--
+ENSMUSG00000044199	ID_550	7	0.00	0.31	-3.06	-1.59	0.316	0.038	0.391	0.105	S1pr4	Environmental Information Processing;Environmental Information Processing;Environmental Information Processing	Signaling molecules and interaction;Signal transduction;Signal transduction	K04293;K04293;K04293	--
+ENSMUSG00000044469	ID_551	7	0.00	0.28	-1.31	-1.91	15.241	6.131	18.507	4.045	Tnfaip8l1	-	-	-	--
+ENSMUSG00000044734	ID_552	7	0.00	-1.22	-5.24	-4.07	28.495	0.756	12.226	1.701	Serpinb1a	-	-	-	--
+ENSMUSG00000044827	ID_553	7	0.00	-0.18	-1.61	-1.21	0.695	0.228	0.614	0.301	Tlr1	Human Diseases;Organismal Systems	Infectious disease: bacterial;Immune system	K05398;K05398	--
+ENSMUSG00000044876	ID_554	7	0.00	0.05	-0.70	-1.20	15.534	9.533	16.067	6.741	Zfp444	-	-	-	zf-C2H2
+ENSMUSG00000045193	ID_555	7	0.00	0.12	-1.71	-2.13	10.321	3.155	11.233	2.366	Cirbp	-	-	-	--
+ENSMUSG00000045268	ID_556	7	0.00	-0.11	-1.13	-0.70	4.082	1.867	3.791	2.514	Zfp691	-	-	-	zf-C2H2
+ENSMUSG00000045287	ID_557	7	0.00	0.58	-1.63	-1.22	1.989	0.642	2.974	0.855	Rtn4rl1	-	-	-	--
+ENSMUSG00000045312	ID_558	7	0.00	0.12	-1.07	-1.56	2.221	1.055	2.417	0.755	Lhfpl2	-	-	-	--
+ENSMUSG00000045374	ID_559	7	0.00	-0.40	-1.46	-1.32	14.821	5.394	11.198	5.954	Wdr81	-	-	-	--
+ENSMUSG00000045411	ID_560	7	0.00	-0.17	-1.27	-0.71	6.267	2.598	5.556	3.831	2410002F23Rik	-	-	-	--
+ENSMUSG00000045777	ID_561	7	0.00	-0.06	-3.32	-1.85	0.781	0.078	0.749	0.217	Ifitm10	-	-	-	--
+ENSMUSG00000045817	ID_562	7	0.00	0.04	-2.29	-2.09	19.540	4.003	20.039	4.598	Zfp36l2	Cellular Processes	Cell growth and death	K18753	zf-CCCH
+ENSMUSG00000045822	ID_563	7	0.00	-0.05	-1.20	-0.99	0.919	0.401	0.889	0.463	Zswim3	-	-	-	--
+ENSMUSG00000045838	ID_564	7	0.00	0.15	-1.08	-1.01	0.609	0.289	0.677	0.302	Ccdc9b	-	-	-	--
+ENSMUSG00000045917	ID_565	7	0.00	-0.32	-1.29	-0.87	2.617	1.073	2.100	1.429	Tmem268	-	-	-	--
+ENSMUSG00000045948	ID_566	7	0.00	-0.48	-1.23	-1.17	50.406	21.532	36.019	22.326	Mrps12	Genetic Information Processing	Translation	K02950	--
+ENSMUSG00000045969	ID_567	7	0.00	0.21	-1.14	-0.86	6.505	2.955	7.524	3.587	Ing1	-	-	-	--
+ENSMUSG00000046080	ID_568	7	0.00	-0.52	-2.86	-2.97	0.801	0.110	0.558	0.102	Clec9a	-	-	-	--
+ENSMUSG00000046167	ID_569	7	0.00	0.53	-6.34	-6.34	0.081	0.000	0.117	0.000	Gldn	-	-	-	--
+ENSMUSG00000046169	ID_570	7	0.00	0.48	-1.39	-2.62	0.222	0.085	0.309	0.036	Adamts6	-	-	-	--
+ENSMUSG00000046434	ID_571	7	0.00	-0.23	-1.09	-0.83	41.769	19.610	35.617	23.560	Hnrnpa1	Human Diseases;Genetic Information Processing	Neurodegenerative disease;Transcription	K12741;K12741	--
+ENSMUSG00000046491	ID_572	7	0.00	-0.05	-0.96	-1.11	2.241	1.149	2.171	1.036	C1qtnf2	-	-	-	--
+ENSMUSG00000046546	ID_573	7	0.00	0.03	-1.50	-0.74	2.084	0.737	2.121	1.252	Fam43a	-	-	-	--
+ENSMUSG00000046688	ID_574	7	0.00	-0.73	-2.10	-1.61	13.349	3.123	8.034	4.367	Tifa	-	-	-	--
+ENSMUSG00000046897	ID_575	7	0.00	0.03	-1.24	-0.64	6.059	2.560	6.187	3.881	Zfp740	-	-	-	zf-C2H2
+ENSMUSG00000047153	ID_576	7	0.00	-0.10	-2.36	-1.49	7.123	1.385	6.660	2.536	Khnyn	-	-	-	--
+ENSMUSG00000047284	ID_577	7	0.00	0.09	-1.15	-0.76	3.506	1.579	3.742	2.077	Neurl4	-	-	-	--
+ENSMUSG00000047407	ID_578	7	0.00	-0.12	-0.91	-1.04	13.742	7.288	12.639	6.688	Tgif1	Environmental Information Processing	Signal transduction	K19383	Homeobox
+ENSMUSG00000047412	ID_579	7	0.00	0.40	-0.94	-0.54	4.633	2.413	6.122	3.186	Zbtb44	-	-	-	ZBTB
+ENSMUSG00000047446	ID_580	7	0.00	0.31	-1.31	-1.69	17.781	7.161	21.975	5.498	Arl4a	-	-	-	--
+ENSMUSG00000047496	ID_581	7	0.00	0.51	-0.86	-0.77	1.542	0.851	2.203	0.906	Rnf152	Environmental Information Processing	Signal transduction	K15705	--
+ENSMUSG00000047514	ID_582	7	0.00	-0.20	-1.42	-0.99	9.722	3.640	8.480	4.908	Tspyl1	-	-	-	--
+ENSMUSG00000047638	ID_583	7	0.00	0.29	-0.46	-0.73	76.420	55.611	93.470	45.955	Nr1h4	Organismal Systems	Digestive system	K08537	THR-like
+ENSMUSG00000047759	ID_584	7	0.00	0.23	-0.62	-0.94	0.424	0.276	0.498	0.221	Hs3st3a1	Metabolism	Glycan biosynthesis and metabolism	K07809	--
+ENSMUSG00000047786	ID_585	7	0.00	-0.59	-2.68	-1.81	0.218	0.034	0.145	0.062	Lix1	-	-	-	--
+ENSMUSG00000047793	ID_586	7	0.00	0.60	-1.09	-0.93	0.885	0.415	1.346	0.463	Sned1	-	-	-	--
+ENSMUSG00000048249	ID_587	7	0.00	0.03	-2.79	-1.52	3.364	0.486	3.424	1.177	Crebrf	-	-	-	Others
+ENSMUSG00000048581	ID_588	7	0.00	0.12	-0.66	-1.10	3.493	2.210	3.788	1.633	E130311K13Rik	-	-	-	--
+ENSMUSG00000048755	ID_589	7	0.00	-0.33	-1.00	-1.05	16.664	8.331	13.286	8.073	Mcat	Metabolism;Metabolism;Metabolism	Global and overview maps;Global and overview maps;Lipid metabolism	K00645;K00645;K00645	--
+ENSMUSG00000048763	ID_590	7	0.00	-0.98	-9.67	-9.67	0.815	0.000	0.414	0.000	Hoxb3	-	-	-	Homeobox
+ENSMUSG00000048807	ID_591	7	0.00	0.04	-2.74	-1.85	0.394	0.059	0.406	0.109	Slc35e4	-	-	-	--
+ENSMUSG00000049295	ID_592	7	0.00	0.42	-0.55	-0.76	4.924	3.355	6.599	2.902	Zfp219	-	-	-	zf-C2H2
+ENSMUSG00000049353	ID_593	7	0.00	-0.29	-2.57	-1.57	1.316	0.222	1.079	0.442	Rd3	-	-	-	--
+ENSMUSG00000049532	ID_594	7	0.00	0.29	-0.84	-0.57	0.679	0.380	0.830	0.456	Sall2	-	-	-	zf-C2H2
+ENSMUSG00000049811	ID_595	7	0.00	0.44	-1.29	-0.99	1.153	0.470	1.566	0.580	Fam161a	-	-	-	--
+ENSMUSG00000049872	ID_596	7	0.00	0.04	-3.20	-1.73	0.156	0.017	0.160	0.047	Calhm5	-	-	-	--
+ENSMUSG00000049969	ID_597	7	0.00	-0.11	-1.11	-0.99	5.647	2.617	5.243	2.839	Plekhf2	-	-	-	--
+ENSMUSG00000050423	ID_598	7	0.00	-0.47	-7.37	-6.26	19.029	0.115	13.719	0.248	Ppp1r3g	-	-	-	--
+ENSMUSG00000050587	ID_599	7	0.00	-0.09	-3.03	-1.72	0.237	0.029	0.222	0.072	Lrrc4c	Organismal Systems;Environmental Information Processing	Development and regeneration;Signaling molecules and interaction	K07523;K07523	--
+ENSMUSG00000050705	ID_600	7	0.00	0.42	-0.72	-0.91	27.523	16.747	36.745	14.649	2310061I04Rik	-	-	-	--
+ENSMUSG00000050860	ID_601	7	0.00	1.10	-1.74	-2.00	1.098	0.328	2.350	0.275	Phospho1	Metabolism;Metabolism	Global and overview maps;Lipid metabolism	K06124;K06124	--
+ENSMUSG00000050931	ID_602	7	0.00	-0.03	-1.03	-0.93	8.486	4.170	8.286	4.442	Sgms2	Metabolism;Environmental Information Processing;Metabolism	Global and overview maps;Signal transduction;Lipid metabolism	K04714;K04714;K04714	--
+ENSMUSG00000051007	ID_603	7	0.00	-0.41	-1.75	-1.59	12.193	3.627	9.205	4.056	Gatd1	-	-	-	--
+ENSMUSG00000051034	ID_604	7	0.00	-0.03	-1.48	-1.00	0.384	0.138	0.377	0.192	Zfp11	Human Diseases	Infectious disease: viral	K09228	zf-C2H2
+ENSMUSG00000051041	ID_605	7	0.00	0.32	-0.76	-0.46	8.366	4.946	10.442	6.069	Olfml1	-	-	-	--
+ENSMUSG00000051184	ID_606	7	0.00	-0.24	-1.27	-1.24	24.952	10.312	21.188	10.558	Zfp524	-	-	-	zf-C2H2
+ENSMUSG00000051359	ID_607	7	0.00	-0.07	-2.18	-2.62	9.502	2.090	9.026	1.549	Ncald	Organismal Systems	Sensory system	K19695	--
+ENSMUSG00000051495	ID_608	7	0.00	0.19	-0.56	-1.16	10.699	7.240	12.182	4.777	Irf2bp2	-	-	-	--
+ENSMUSG00000051510	ID_609	7	0.00	0.35	-1.09	-1.23	13.175	6.169	16.807	5.599	Mafg	-	-	-	TF_bZIP
+ENSMUSG00000051550	ID_610	7	0.00	-0.48	-1.65	-1.70	3.095	0.983	2.214	0.951	Zfp579	-	-	-	zf-C2H2
+ENSMUSG00000051786	ID_611	7	0.00	-0.15	-1.20	-1.23	1.489	0.650	1.346	0.635	Tubgcp6	-	-	-	--
+ENSMUSG00000051984	ID_612	7	0.00	0.80	-1.60	-0.54	0.557	0.184	0.970	0.382	Sec31b	Genetic Information Processing	Folding, sorting and degradation	K14005	--
+ENSMUSG00000052031	ID_613	7	0.00	-0.22	-1.46	-1.66	5.916	2.145	5.090	1.872	Tagap1	-	-	-	--
+ENSMUSG00000052117	ID_614	7	0.00	0.20	-1.82	-1.18	5.434	1.537	6.228	2.395	D630039A03Rik	-	-	-	--
+ENSMUSG00000052534	ID_615	7	0.00	0.15	-0.91	-1.09	3.876	2.058	4.288	1.817	Pbx1	Human Diseases;Human Diseases;Organismal Systems	Cancer: overview;Endocrine and metabolic disease;Endocrine system	K09355;K09355;K09355	Homeobox
+ENSMUSG00000052698	ID_616	7	0.00	0.34	-1.03	-0.58	0.869	0.426	1.100	0.581	Tln2	Human Diseases;Human Diseases;Environmental Information Processing;Cellular Processes;Organismal Systems	Infectious disease: bacterial;Infectious disease: viral;Signal transduction;Cellular community - eukaryotes;Immune system	K06271;K06271;K06271;K06271;K06271	--
+ENSMUSG00000052738	ID_617	7	0.00	0.12	-0.74	-1.03	186.100	111.286	201.665	90.995	Suclg1	Metabolism;Metabolism;Metabolism;Metabolism	Global and overview maps;Global and overview maps;Carbohydrate metabolism;Carbohydrate metabolism	K01899;K01899;K01899;K01899	--
+ENSMUSG00000052751	ID_618	7	0.00	0.18	-0.83	-0.43	11.673	6.582	13.239	8.645	Repin1	-	-	-	zf-C2H2
+ENSMUSG00000052752	ID_619	7	0.00	0.01	-1.18	-0.84	4.461	1.967	4.499	2.485	Traf7	-	-	-	--
+ENSMUSG00000052926	ID_620	7	0.00	0.12	-0.79	-0.92	16.166	9.381	17.563	8.518	Rnaseh2a	Genetic Information Processing	Replication and repair	K10743	--
+ENSMUSG00000052957	ID_621	7	0.00	0.56	-1.25	-2.35	5.906	2.478	8.733	1.159	Gas1	Environmental Information Processing	Signal transduction	K06232	--
+ENSMUSG00000053137	ID_622	7	0.00	0.28	-1.01	-1.13	0.521	0.258	0.631	0.238	Mapk11	Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Human Diseases;Environmental Information Processing;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Human Diseases;Human Diseases;Environmental Information Processing;Human Diseases;Organismal Systems;Human Diseases;Human Diseases;Organismal Systems;Human Diseases;Cellular Processes;Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Organismal Systems;Human Diseases;Cellular Processes;Organismal Systems;Environmental Information Processing;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Environmental Information Processing;Organismal Systems;Cellular Processes;Organismal Systems;Environmental Information Processing;Organismal Systems;Organismal Systems;Human Diseases;Organismal Systems;Human Diseases;Organismal Systems;Human Diseases;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Human Diseases;Organismal Systems;Human Diseases;Environmental Information Processing;Organismal Systems;Organismal Systems;Organismal Systems;Human Diseases;Organismal Systems;Human Diseases;Environmental Information Processing;Organismal Systems	Neurodegenerative disease;Neurodegenerative disease;Infectious disease: viral;Infectious disease: viral;Infectious disease: bacterial;Immune system;Infectious disease: bacterial;Signal transduction;Neurodegenerative disease;Infectious disease: bacterial;Infectious disease: bacterial;Infectious disease: bacterial;Infectious disease: viral;Infectious disease: viral;Environmental adaptation;Cancer: overview;Infectious disease: viral;Signal transduction;Cardiovascular disease;Immune system;Cardiovascular disease;Cancer: overview;Immune system;Infectious disease: parasitic;Cell growth and death;Infectious disease: viral;Endocrine and metabolic disease;Cardiovascular disease;Nervous system;Circulatory system;Endocrine and metabolic disease;Cellular community - eukaryotes;Endocrine system;Signal transduction;Nervous system;Sensory system;Development and regeneration;Immune system;Signal transduction;Nervous system;Cell growth and death;Immune system;Signal transduction;Endocrine system;Immune system;Infectious disease: parasitic;Immune system;Infectious disease: parasitic;Immune system;Endocrine and metabolic disease;Immune system;Immune system;Development and regeneration;Endocrine system;Drug resistance: antineoplastic;Endocrine system;Cancer: overview;Signal transduction;Aging;Immune system;Endocrine system;Infectious disease: bacterial;Immune system;Infectious disease: bacterial;Signal transduction;Immune system	K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441;K04441	--
+ENSMUSG00000053205	ID_623	7	0.00	0.39	-0.59	-0.81	0.810	0.539	1.064	0.463	Styx	-	-	-	--
+ENSMUSG00000053461	ID_624	7	0.00	0.76	-3.83	-3.95	0.555	0.039	0.941	0.036	Hhipl2	-	-	-	--
+ENSMUSG00000053483	ID_625	7	0.00	-0.19	-1.06	-0.66	7.168	3.429	6.299	4.525	Usp21	Cellular Processes	Cell growth and death	K21634	--
+ENSMUSG00000053950	ID_626	7	0.00	0.14	-0.87	-0.56	1.354	0.741	1.487	0.918	Adnp2	-	-	-	Others
+ENSMUSG00000054000	ID_627	7	0.00	0.26	-0.78	-0.72	1.701	0.989	2.034	1.035	Tusc1	-	-	-	--
+ENSMUSG00000054226	ID_628	7	0.00	-0.04	-1.22	-0.75	82.688	35.453	80.460	49.096	Tprkb	-	-	-	--
+ENSMUSG00000054499	ID_629	7	0.00	-0.21	-1.20	-0.79	16.949	7.384	14.665	9.812	Dedd2	-	-	-	--
+ENSMUSG00000054517	ID_630	7	0.00	-0.04	-1.02	-0.54	2.569	1.264	2.495	1.769	Trim65	-	-	-	--
+ENSMUSG00000054723	ID_631	7	0.00	0.39	-0.72	-0.55	8.991	5.440	11.809	6.154	Vmac	-	-	-	--
+ENSMUSG00000054728	ID_632	7	0.00	0.32	-2.18	-1.12	0.384	0.085	0.480	0.177	Phactr1	-	-	-	--
+ENSMUSG00000054752	ID_633	7	0.00	-1.69	-6.69	-6.69	0.103	0.000	0.032	0.000	Fsd1l	-	-	-	--
+ENSMUSG00000054827	ID_634	7	0.00	0.73	-0.76	-0.98	671.342	397.165	1111.938	340.539	Cyp2c50	Metabolism;Organismal Systems;Organismal Systems;Metabolism;Metabolism;Human Diseases;Metabolism;Metabolism	Global and overview maps;Nervous system;Sensory system;Metabolism of cofactors and vitamins;Lipid metabolism;Cancer: overview;Lipid metabolism;Lipid metabolism	K07413;K07413;K07413;K07413;K07413;K07413;K07413;K07413	--
+ENSMUSG00000054855	ID_635	7	0.00	0.57	-2.03	-1.41	6.048	1.481	8.953	2.279	Rnd1	Organismal Systems	Development and regeneration	K07531	--
+ENSMUSG00000055235	ID_636	7	0.00	0.04	-1.96	-1.07	0.446	0.115	0.460	0.212	Wdr86	-	-	-	--
+ENSMUSG00000055301	ID_637	7	0.00	0.63	-1.19	-1.36	1.625	0.713	2.511	0.634	Adh7	Metabolism;Human Diseases;Metabolism;Metabolism;Metabolism;Metabolism;Metabolism;Metabolism;Metabolism	Global and overview maps;Endocrine and metabolic disease;Metabolism of cofactors and vitamins;Xenobiotics biodegradation and metabolism;Xenobiotics biodegradation and metabolism;Carbohydrate metabolism;Lipid metabolism;Carbohydrate metabolism;Amino acid metabolism	K13951;K13951;K13951;K13951;K13951;K13951;K13951;K13951;K13951	--
+ENSMUSG00000055553	ID_638	7	0.00	-0.23	-0.92	-1.03	73.548	38.902	62.636	35.931	Kxd1	Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Genetic Information Processing;Genetic Information Processing;Cellular Processes	Neurodegenerative disease;Infectious disease: viral;Neurodegenerative disease;Infectious disease: bacterial;Infectious disease: viral;Folding, sorting and degradation;Translation;Transport and catabolism	K02927;K02927;K02927;K02927;K02927;K02927;K02927;K02927	--
+ENSMUSG00000055612	ID_639	7	0.00	0.34	-1.38	-0.61	0.684	0.262	0.865	0.449	Cdca7	-	-	-	--
+ENSMUSG00000055835	ID_640	7	0.00	0.30	-0.82	-1.09	3.141	1.778	3.873	1.479	Zfp1	Human Diseases	Infectious disease: viral	K09228	zf-C2H2
+ENSMUSG00000055917	ID_641	7	0.00	-0.10	-0.98	-1.24	7.717	3.908	7.223	3.266	Zfp277	-	-	-	zf-C2H2
+ENSMUSG00000056069	ID_642	7	0.00	-0.23	-1.39	-1.12	1.581	0.602	1.348	0.729	Otulinl	-	-	-	--
+ENSMUSG00000056749	ID_643	7	0.00	0.15	-0.97	-0.57	8.595	4.382	9.505	5.782	Nfil3	-	-	-	TF_bZIP
+ENSMUSG00000056851	ID_644	7	0.00	0.20	-0.56	-0.89	277.274	187.428	317.564	149.749	Pcbp2	Cellular Processes	Cell growth and death	K13162	--
+ENSMUSG00000056917	ID_645	7	0.00	-0.14	-1.32	-1.59	4.266	1.709	3.862	1.419	Sipa1	Environmental Information Processing;Organismal Systems	Signal transduction;Immune system	K08013;K08013	--
+ENSMUSG00000056973	ID_646	7	0.00	0.34	-0.88	-0.52	505.524	274.758	641.078	351.973	Ces1d	Metabolism	Xenobiotics biodegradation and metabolism	K01044	--
+ENSMUSG00000057037	ID_647	7	0.00	0.38	-0.94	-0.87	73.350	38.298	95.449	40.039	Cfhr1	Organismal Systems	Immune system	K23815	--
+ENSMUSG00000057054	ID_648	7	0.00	0.03	-0.87	-1.22	23.610	12.890	24.105	10.120	Inca1	-	-	-	--
+ENSMUSG00000057130	ID_649	7	0.00	-0.03	-1.02	-1.15	4.258	2.105	4.167	1.914	Txnl4a	Genetic Information Processing	Transcription	K12859	--
+ENSMUSG00000057193	ID_650	7	0.00	0.25	-0.81	-0.57	3.940	2.240	4.681	2.653	Slc44a2	Human Diseases	Cancer: overview	K15377	--
+ENSMUSG00000057229	ID_651	7	0.00	0.36	-0.67	-0.92	27.967	17.545	35.906	14.769	Dmac2	-	-	-	--
+ENSMUSG00000057388	ID_652	7	0.00	0.23	-0.75	-0.97	38.526	22.889	45.291	19.700	Mrpl18	Genetic Information Processing	Translation	K02881	--
+ENSMUSG00000057409	ID_653	7	0.00	-0.15	-1.04	-1.08	1.156	0.562	1.039	0.548	Zfp53	Human Diseases	Infectious disease: viral	K09228	zf-C2H2
+ENSMUSG00000057777	ID_654	7	0.00	-0.66	-2.44	-2.55	0.439	0.081	0.278	0.075	Mab21l2	-	-	-	--
+ENSMUSG00000058070	ID_655	7	0.00	0.44	-0.88	-0.82	1.030	0.561	1.401	0.582	Eml1	-	-	-	--
+ENSMUSG00000058192	ID_656	7	0.00	-0.04	-0.95	-1.23	1.085	0.560	1.057	0.461	Zfp846	Human Diseases	Infectious disease: viral	K09228	zf-C2H2
+ENSMUSG00000058579	ID_657	7	0.00	1.50	-1.67	-1.05	1.620	0.508	4.572	0.782	Cela2a	Organismal Systems;Organismal Systems	Digestive system;Digestive system	K01346;K01346	--
+ENSMUSG00000058709	ID_658	7	0.00	0.12	-1.06	-0.48	32.450	15.559	35.145	23.191	Egln2	Human Diseases;Environmental Information Processing;Human Diseases	Cancer: overview;Signal transduction;Cancer: specific types	K09592;K09592;K09592	--
+ENSMUSG00000058761	ID_659	7	0.00	0.56	-1.01	-0.56	4.567	2.269	6.747	3.091	Rnf169	-	-	-	--
+ENSMUSG00000058793	ID_660	7	0.00	-0.16	-1.01	-0.74	13.587	6.763	12.127	8.147	Cds2	Metabolism;Metabolism;Environmental Information Processing	Global and overview maps;Lipid metabolism;Signal transduction	K00981;K00981;K00981	--
+ENSMUSG00000058886	ID_661	7	0.00	-0.05	-1.06	-0.65	8.384	4.025	8.121	5.346	Deaf1	-	-	-	SAND
+ENSMUSG00000059108	ID_662	7	0.00	-1.47	-11.15	-11.15	2.274	0.000	0.820	0.000	Ifitm6	-	-	-	--
+ENSMUSG00000059401	ID_663	7	0.00	-0.92	-3.94	-3.48	0.582	0.038	0.308	0.052	Mamld1	-	-	-	--
+ENSMUSG00000059456	ID_664	7	0.00	-0.01	-1.00	-0.85	16.641	8.298	16.537	9.244	Ptk2b	Environmental Information Processing;Environmental Information Processing;Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Organismal Systems;Human Diseases;Organismal Systems;Organismal Systems	Signal transduction;Signal transduction;Infectious disease: bacterial;Infectious disease: viral;Infectious disease: viral;Immune system;Immune system;Infectious disease: viral;Immune system;Endocrine system	K05871;K05871;K05871;K05871;K05871;K05871;K05871;K05871;K05871;K05871	--
+ENSMUSG00000059554	ID_665	7	0.00	-0.25	-1.52	-1.88	8.253	2.868	6.942	2.242	Ccdc28a	-	-	-	--
+ENSMUSG00000060147	ID_666	7	0.00	-0.40	-1.74	-1.45	20.569	6.174	15.547	7.546	Serpinb6a	Human Diseases	Infectious disease: parasitic	K13963	--
+ENSMUSG00000060314	ID_667	7	0.00	-0.40	-3.71	-3.38	0.313	0.024	0.238	0.030	Zfp941	Human Diseases	Infectious disease: viral	K09228	zf-C2H2
+ENSMUSG00000060429	ID_668	7	0.00	0.05	-0.95	-0.52	12.566	6.483	12.992	8.760	Sntb1	-	-	-	--
+ENSMUSG00000060477	ID_669	7	0.00	-0.28	-1.46	-0.94	7.727	2.815	6.366	4.019	Irak2	Human Diseases;Organismal Systems	Infectious disease: bacterial;Nervous system	K04731;K04731	--
+ENSMUSG00000060509	ID_670	7	0.00	-0.20	-4.22	-3.29	0.372	0.020	0.324	0.038	Xcr1	Environmental Information Processing;Organismal Systems;Environmental Information Processing	Signaling molecules and interaction;Immune system;Signaling molecules and interaction	K04193;K04193;K04193	--
+ENSMUSG00000060538	ID_671	7	0.00	0.25	-0.99	-1.03	53.229	26.827	63.434	26.112	Tmem219	-	-	-	--
+ENSMUSG00000060679	ID_672	7	0.00	-0.14	-1.06	-1.22	25.092	12.011	22.780	10.798	Mrps9	Genetic Information Processing	Translation	K02996	--
+ENSMUSG00000060862	ID_673	7	0.00	0.14	-0.72	-1.05	1.184	0.718	1.307	0.570	Zbtb40	-	-	-	ZBTB
+ENSMUSG00000060923	ID_674	7	0.00	0.78	-0.83	-0.76	1.310	0.735	2.249	0.776	Acyp2	Metabolism;Metabolism	Global and overview maps;Carbohydrate metabolism	K01512;K01512	--
+ENSMUSG00000060961	ID_675	7	0.00	0.20	-1.23	-1.00	8.013	3.407	9.174	3.996	Slc4a4	Organismal Systems;Organismal Systems;Organismal Systems	Digestive system;Digestive system;Excretory system	K13575;K13575;K13575	--
+ENSMUSG00000061207	ID_676	7	0.00	-0.49	-1.59	-1.19	6.803	2.265	4.829	2.988	Stk19	-	-	-	--
+ENSMUSG00000061535	ID_677	7	0.00	0.14	-1.15	-1.65	0.857	0.385	0.945	0.273	C1qtnf7	-	-	-	--
+ENSMUSG00000061859	ID_678	7	0.00	-0.35	-1.07	-0.93	4.333	2.064	3.388	2.273	Patj	Human Diseases;Cellular Processes;Environmental Information Processing	Infectious disease: viral;Cellular community - eukaryotes;Signal transduction	K06092;K06092;K06092	--
+ENSMUSG00000061898	ID_679	7	0.00	-0.14	-1.16	-0.88	0.972	0.435	0.885	0.527	Rbak	Human Diseases	Infectious disease: viral	K09228	zf-C2H2
+ENSMUSG00000062070	ID_680	7	0.00	-0.14	-1.11	-0.85	213.963	98.831	193.508	118.562	Pgk1	Metabolism;Metabolism;Environmental Information Processing;Metabolism;Metabolism	Global and overview maps;Global and overview maps;Signal transduction;Global and overview maps;Carbohydrate metabolism	K00927;K00927;K00927;K00927;K00927	--
+ENSMUSG00000062101	ID_681	7	0.00	0.57	-0.58	-0.43	0.718	0.480	1.069	0.532	Zfp119b	Human Diseases	Infectious disease: viral	K09228	zf-C2H2
+ENSMUSG00000062210	ID_682	7	0.00	0.08	-1.75	-1.38	1.277	0.380	1.351	0.489	Tnfaip8	-	-	-	--
+ENSMUSG00000062300	ID_683	7	0.00	-0.05	-1.34	-0.81	25.621	10.146	24.785	14.660	Nectin2	Human Diseases;Environmental Information Processing;Cellular Processes	Infectious disease: viral;Signaling molecules and interaction;Cellular community - eukaryotes	K06531;K06531;K06531	--
+ENSMUSG00000062542	ID_684	7	0.00	0.44	-1.63	-1.09	0.514	0.166	0.696	0.241	Syt9	-	-	-	--
+ENSMUSG00000062545	ID_685	7	0.00	0.36	-3.81	-3.19	3.607	0.257	4.619	0.395	Tlr12	-	-	-	--
+ENSMUSG00000062585	ID_686	7	0.00	0.79	-1.23	-1.00	0.622	0.265	1.077	0.312	Cnr2	Environmental Information Processing	Signaling molecules and interaction	K04278	--
+ENSMUSG00000062624	ID_687	7	0.00	0.71	-1.99	-0.84	118.731	29.794	193.992	66.316	Cyp2c67	Metabolism;Organismal Systems;Organismal Systems;Metabolism;Metabolism;Human Diseases;Metabolism;Metabolism	Global and overview maps;Nervous system;Sensory system;Metabolism of cofactors and vitamins;Lipid metabolism;Cancer: overview;Lipid metabolism;Lipid metabolism	K07413;K07413;K07413;K07413;K07413;K07413;K07413;K07413	--
+ENSMUSG00000062995	ID_688	7	0.00	-0.10	-1.14	-1.41	1.064	0.483	0.993	0.401	Ica1	Human Diseases	Endocrine and metabolic disease	K19863	--
+ENSMUSG00000063108	ID_689	7	0.00	-0.14	-1.11	-1.14	0.555	0.257	0.503	0.252	Zfp26	Human Diseases	Infectious disease: viral	K09228	zf-C2H2
+ENSMUSG00000063415	ID_690	7	0.00	-0.16	-2.05	-2.43	0.527	0.127	0.471	0.098	Cyp26b1	Metabolism;Metabolism	Global and overview maps;Metabolism of cofactors and vitamins	K12664;K12664	--
+ENSMUSG00000063524	ID_691	7	0.00	0.38	-0.57	-0.69	319.820	214.819	417.201	198.808	Eno1	Metabolism;Metabolism;Environmental Information Processing;Metabolism;Genetic Information Processing;Metabolism	Global and overview maps;Global and overview maps;Signal transduction;Global and overview maps;Folding, sorting and degradation;Carbohydrate metabolism	K01689;K01689;K01689;K01689;K01689;K01689	--
+ENSMUSG00000063856	ID_692	7	0.00	-0.37	-2.11	-1.85	3799.246	883.097	2945.945	1053.196	Gpx1	Metabolism;Human Diseases;Human Diseases;Human Diseases;Metabolism;Organismal Systems;Metabolism	Global and overview maps;Neurodegenerative disease;Neurodegenerative disease;Neurodegenerative disease;Lipid metabolism;Endocrine system;Metabolism of other amino acids	K00432;K00432;K00432;K00432;K00432;K00432;K00432	--
+ENSMUSG00000063894	ID_693	7	0.00	0.18	-1.14	-0.81	0.685	0.311	0.776	0.390	Zkscan8	-	-	-	zf-C2H2
+ENSMUSG00000064264	ID_694	7	0.00	-0.56	-2.17	-1.58	1.480	0.330	1.003	0.496	Zfp428	-	-	-	--
+ENSMUSG00000064267	ID_695	7	0.00	1.18	-1.63	-0.66	1.013	0.328	2.292	0.641	Hvcn1	-	-	-	--
+ENSMUSG00000066154	ID_696	7	0.00	0.24	-0.58	-1.16	4092.200	2732.638	4827.289	1827.968	Mup3	-	-	-	--
+ENSMUSG00000066800	ID_697	7	0.00	-0.33	-1.33	-1.55	0.607	0.242	0.484	0.207	Rnasel	Human Diseases;Organismal Systems;Human Diseases;Human Diseases	Infectious disease: viral;Immune system;Infectious disease: viral;Infectious disease: viral	K01165;K01165;K01165;K01165	--
+ENSMUSG00000066892	ID_698	7	0.00	-0.19	-1.41	-1.92	2.910	1.092	2.554	0.771	Fbxl12	-	-	-	--
+ENSMUSG00000066894	ID_699	7	0.00	-0.11	-1.95	-1.06	0.908	0.235	0.843	0.435	Vsig10	-	-	-	--
+ENSMUSG00000067199	ID_700	7	0.00	-0.12	-1.16	-1.62	2.163	0.970	1.990	0.704	Frat1	Human Diseases;Human Diseases;Human Diseases;Human Diseases;Environmental Information Processing;Human Diseases;Human Diseases	Cancer: overview;Neurodegenerative disease;Neurodegenerative disease;Cancer: specific types;Signal transduction;Cancer: specific types;Cancer: specific types	K03069;K03069;K03069;K03069;K03069;K03069;K03069	--
+ENSMUSG00000067656	ID_701	7	0.00	0.02	-1.70	-2.26	35.561	10.982	36.062	7.408	Slc22a27	-	-	-	--
+ENSMUSG00000068086	ID_702	7	0.00	-0.34	-1.61	-1.92	26.065	8.548	20.601	6.890	Cyp2d9	Organismal Systems;Metabolism	Nervous system;Lipid metabolism	K07414;K07414	--
+ENSMUSG00000068417	ID_703	7	0.00	0.85	-7.88	-7.88	0.236	0.000	0.424	0.000	Pnp2	Metabolism;Metabolism;Metabolism	Global and overview maps;Nucleotide metabolism;Metabolism of cofactors and vitamins	K03783;K03783;K03783	--
+ENSMUSG00000068854	ID_704	7	0.00	0.07	-1.92	-1.41	1.698	0.449	1.778	0.639	H2bc21	Organismal Systems;Human Diseases;Human Diseases;Human Diseases	Immune system;Immune disease;Cancer: overview;Substance dependence	K11252;K11252;K11252;K11252	--
+ENSMUSG00000069020	ID_705	7	0.00	0.51	-0.97	-0.90	4.119	2.104	5.870	2.210	Urm1	Genetic Information Processing	Folding, sorting and degradation	K12161	--
+ENSMUSG00000069114	ID_706	7	0.00	0.38	-1.56	-0.98	0.468	0.159	0.607	0.237	Zbtb10	-	-	-	ZBTB
+ENSMUSG00000069456	ID_707	7	0.00	0.46	-1.74	-1.10	64.005	19.198	88.255	29.843	Rdh16	Metabolism;Metabolism	Global and overview maps;Metabolism of cofactors and vitamins	K11154;K11154	--
+ENSMUSG00000070570	ID_708	7	0.00	2.73	-5.70	-5.70	0.052	0.000	0.345	0.000	Slc17a7	Organismal Systems;Organismal Systems;Organismal Systems;Human Diseases	Nervous system;Nervous system;Nervous system;Substance dependence	K12302;K12302;K12302;K12302	--
+ENSMUSG00000070705	ID_709	7	0.00	0.46	-0.99	-0.79	2.153	1.086	2.971	1.242	Eid2b	-	-	-	--
+ENSMUSG00000071653	ID_710	7	0.00	-0.33	-1.11	-1.09	30.050	13.887	23.982	14.159	1810009A15Rik	-	-	-	--
+ENSMUSG00000071724	ID_711	7	0.00	-1.78	-8.12	-8.12	0.279	0.000	0.081	0.000	Smpd5	-	-	-	--
+ENSMUSG00000071856	ID_712	7	0.00	0.20	-1.66	-1.63	3.463	1.095	3.968	1.118	Mcc	-	-	-	--
+ENSMUSG00000072115	ID_713	7	0.00	-0.08	-1.79	-2.25	791.559	229.223	751.050	165.992	Ang	Human Diseases	Neurodegenerative disease	K16631	--
+ENSMUSG00000072966	ID_714	7	0.00	3.38	-4.32	-4.32	0.020	0.000	0.208	0.000	Gprasp2	-	-	-	--
+ENSMUSG00000073409	ID_715	7	0.00	-0.30	-1.16	-0.92	26.321	11.767	21.375	13.870	H2-Q6	Human Diseases;Human Diseases;Human Diseases;Cellular Processes;Cellular Processes;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Cellular Processes;Environmental Information Processing;Organismal Systems;Human Diseases;Human Diseases	Infectious disease: viral;Infectious disease: viral;Infectious disease: viral;Transport and catabolism;Transport and catabolism;Infectious disease: viral;Infectious disease: viral;Infectious disease: viral;Infectious disease: viral;Cancer: overview;Cardiovascular disease;Immune disease;Immune disease;Cell growth and death;Signaling molecules and interaction;Immune system;Endocrine and metabolic disease;Immune disease	K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751	--
+ENSMUSG00000073421	ID_716	7	0.00	-0.38	-1.72	-1.34	52.001	15.771	40.042	20.573	H2-Ab1	Human Diseases;Human Diseases;Human Diseases;Cellular Processes;Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Environmental Information Processing;Organismal Systems;Human Diseases;Human Diseases;Organismal Systems;Organismal Systems;Organismal Systems;Human Diseases;Human Diseases;Human Diseases	Infectious disease: viral;Infectious disease: viral;Infectious disease: bacterial;Transport and catabolism;Immune disease;Infectious disease: bacterial;Infectious disease: viral;Immune system;Immune disease;Cardiovascular disease;Immune disease;Infectious disease: parasitic;Immune disease;Infectious disease: viral;Signaling molecules and interaction;Immune system;Immune disease;Infectious disease: parasitic;Immune system;Immune system;Immune system;Endocrine and metabolic disease;Immune disease;Immune disease	K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752;K06752	--
+ENSMUSG00000073424	ID_717	7	0.00	0.36	-0.70	-1.30	65.174	40.052	83.437	26.394	Cyp4f15	-	-	-	--
+ENSMUSG00000073591	ID_718	7	0.00	-0.21	-6.32	-6.32	0.080	0.000	0.069	0.000	Pcdhb22	-	-	-	--
+ENSMUSG00000073643	ID_719	7	0.00	0.24	-0.50	-0.96	1.325	0.936	1.570	0.680	Wdfy1	-	-	-	--
+ENSMUSG00000073758	ID_720	7	0.00	-0.00	-1.21	-0.58	1.513	0.652	1.511	1.014	Sh3d21	-	-	-	--
+ENSMUSG00000074358	ID_721	7	0.00	-0.27	-1.01	-0.99	4.798	2.376	3.974	2.419	Ccdc61	-	-	-	--
+ENSMUSG00000074359	ID_722	7	0.00	-0.96	-8.70	-8.70	0.415	0.000	0.214	0.000	Psg23	-	-	-	--
+ENSMUSG00000074375	ID_723	7	0.00	-2.08	-7.85	-6.64	40.950	0.178	9.655	0.411	Sult2a3	Organismal Systems;Human Diseases;Metabolism	Digestive system;Cancer: overview;Xenobiotics biodegradation and metabolism	K11822;K11822;K11822	--
+ENSMUSG00000074623	ID_724	7	0.00	0.91	-0.87	-0.88	1.652	0.903	3.114	0.896	Gm826	-	-	-	--
+ENSMUSG00000074794	ID_725	7	0.00	-0.73	-2.73	-3.14	47.285	7.121	28.506	5.364	Arrdc3	-	-	-	--
+ENSMUSG00000074824	ID_726	7	0.00	0.66	-2.17	-0.86	0.379	0.084	0.599	0.209	Rslcan18	Human Diseases	Infectious disease: viral	K09228	zf-C2H2
+ENSMUSG00000074925	ID_727	7	0.00	0.17	-1.57	-1.09	0.901	0.303	1.015	0.422	Ptar1	-	-	-	--
+ENSMUSG00000075044	ID_728	7	0.00	0.65	-1.99	-3.00	2.062	0.519	3.225	0.258	Slc22a29	-	-	-	--
+ENSMUSG00000075273	ID_729	7	0.00	0.45	-0.65	-0.58	1.925	1.225	2.637	1.284	Ttc30b	-	-	-	--
+ENSMUSG00000075588	ID_730	7	0.00	-0.91	-3.01	-2.70	1.343	0.167	0.715	0.206	Hoxb2	-	-	-	Homeobox
+ENSMUSG00000075592	ID_731	7	0.00	0.33	-1.32	-1.02	0.361	0.145	0.455	0.178	Nynrin	-	-	-	--
+ENSMUSG00000076431	ID_732	7	0.00	-0.29	-2.02	-2.55	0.613	0.151	0.502	0.105	Sox4	Human Diseases	Cancer: overview	K23581	HMG
+ENSMUSG00000078429	ID_733	7	0.00	0.29	-0.92	-0.48	14.785	7.794	18.094	10.596	Ctdsp2	-	-	-	--
+ENSMUSG00000078607	ID_734	7	0.00	-0.05	-1.06	-1.50	4.420	2.118	4.273	1.566	1810010H24Rik	-	-	-	--
+ENSMUSG00000078624	ID_735	7	0.00	-0.23	-2.17	-1.69	0.637	0.142	0.544	0.198	Or51ab3	Organismal Systems	Sensory system	K04257	--
+ENSMUSG00000078670	ID_736	7	0.00	0.48	-1.99	-2.38	2.276	0.574	3.184	0.437	Fam174b	-	-	-	--
+ENSMUSG00000078672	ID_737	7	0.00	0.53	-1.58	-2.85	89.842	30.067	129.529	12.443	Mup20	-	-	-	--
+ENSMUSG00000078675	ID_738	7	0.00	0.38	-2.18	-1.28	586.340	129.348	763.251	241.399	Mup16	-	-	-	--
+ENSMUSG00000078763	ID_739	7	0.00	-0.79	-1.74	-1.53	0.647	0.194	0.375	0.224	Slfn1	-	-	-	--
+ENSMUSG00000078798	ID_740	7	0.00	0.44	-0.58	-0.77	543.215	362.733	738.461	319.474	Sult2a1	Organismal Systems;Human Diseases;Metabolism	Digestive system;Cancer: overview;Xenobiotics biodegradation and metabolism	K11822;K11822;K11822	--
+ENSMUSG00000078799	ID_741	7	0.00	-0.52	-4.29	-3.47	42.706	2.179	29.748	3.848	Sult2a5	Organismal Systems;Human Diseases;Metabolism	Digestive system;Cancer: overview;Xenobiotics biodegradation and metabolism	K11822;K11822;K11822	--
+ENSMUSG00000078813	ID_742	7	0.00	-0.64	-1.70	-1.56	11.051	3.413	7.110	3.743	Leng1	-	-	-	--
+ENSMUSG00000078901	ID_743	7	0.00	0.37	-9.59	-9.59	0.770	0.000	0.995	0.000	Gm14440	-	-	-	--
+ENSMUSG00000078921	ID_744	7	0.00	-0.16	-1.21	-1.21	1.961	0.846	1.761	0.847	Tgtp2	Environmental Information Processing	Signal transduction	K17072	--
+ENSMUSG00000078922	ID_745	7	0.00	-0.58	-2.36	-1.69	5.739	1.116	3.831	1.783	Tgtp1	Environmental Information Processing	Signal transduction	K17072	--
+ENSMUSG00000079084	ID_746	7	0.00	-0.62	-1.61	-1.39	4.104	1.340	2.668	1.568	Ccdc82	-	-	-	--
+ENSMUSG00000079165	ID_747	7	0.00	-1.94	-10.62	-10.62	1.569	0.000	0.410	0.000	Sap25	-	-	-	--
+ENSMUSG00000079283	ID_748	7	0.00	-0.10	-1.09	-1.46	9.569	4.491	8.933	3.472	2310009B15Rik	-	-	-	--
+ENSMUSG00000079457	ID_749	7	0.00	0.59	-1.29	-2.36	0.720	0.295	1.083	0.140	Gm7609	-	-	-	--
+ENSMUSG00000079507	ID_750	7	0.00	-1.68	-5.21	-5.38	18.993	0.512	5.947	0.456	H2-Q1	Human Diseases;Human Diseases;Human Diseases;Cellular Processes;Cellular Processes;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Cellular Processes;Environmental Information Processing;Organismal Systems;Human Diseases;Human Diseases	Infectious disease: viral;Infectious disease: viral;Infectious disease: viral;Transport and catabolism;Transport and catabolism;Infectious disease: viral;Infectious disease: viral;Infectious disease: viral;Infectious disease: viral;Cancer: overview;Cardiovascular disease;Immune disease;Immune disease;Cell growth and death;Signaling molecules and interaction;Immune system;Endocrine and metabolic disease;Immune disease	K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751;K06751	--
+ENSMUSG00000079511	ID_751	7	0.00	0.99	-1.83	-1.37	0.473	0.133	0.937	0.183	Gm42688	-	-	-	--
+ENSMUSG00000089678	ID_752	7	0.00	-0.23	-1.19	-1.54	66.639	29.232	56.717	22.971	Agxt2	Metabolism;Metabolism;Metabolism;Metabolism;Metabolism	Global and overview maps;Amino acid metabolism;Amino acid metabolism;Amino acid metabolism;Amino acid metabolism	K00827;K00827;K00827;K00827;K00827	--
+ENSMUSG00000089715	ID_753	7	0.00	0.17	-1.02	-1.17	1.745	0.858	1.967	0.778	Cbx6	-	-	-	--
+ENSMUSG00000089762	ID_754	7	0.00	-0.34	-2.64	-2.17	0.843	0.135	0.666	0.187	Ier5l	-	-	-	--
+ENSMUSG00000089872	ID_755	7	0.00	-0.02	-1.01	-0.54	2.782	1.379	2.748	1.909	Rps6kc1	-	-	-	--
+ENSMUSG00000090019	ID_756	7	0.00	0.00	-2.66	-2.10	1.951	0.308	1.957	0.456	Gimap1	-	-	-	--
+ENSMUSG00000090077	ID_757	7	0.00	0.16	-1.54	-2.00	3.317	1.138	3.698	0.829	Lime1	-	-	-	--
+ENSMUSG00000090145	ID_758	7	0.00	0.19	-1.37	-2.40	44.671	17.287	50.900	8.456	Ugt1a6b	Metabolism;Human Diseases;Metabolism;Organismal Systems;Metabolism;Metabolism;Human Diseases;Metabolism;Metabolism;Metabolism;Metabolism;Metabolism	Global and overview maps;Cancer: overview;Metabolism of cofactors and vitamins;Digestive system;Lipid metabolism;Xenobiotics biodegradation and metabolism;Cancer: overview;Xenobiotics biodegradation and metabolism;Xenobiotics biodegradation and metabolism;Metabolism of cofactors and vitamins;Carbohydrate metabolism;Carbohydrate metabolism	K00699;K00699;K00699;K00699;K00699;K00699;K00699;K00699;K00699;K00699;K00699;K00699	--
+ENSMUSG00000090523	ID_759	7	0.00	-0.06	-1.10	-0.91	11.236	5.236	10.810	5.988	Gypc	Human Diseases	Infectious disease: parasitic	K06576	--
+ENSMUSG00000090667	ID_760	7	0.00	0.89	-2.05	-2.15	0.120	0.029	0.223	0.027	Mdfic2	-	-	-	--
+ENSMUSG00000090958	ID_761	7	0.00	0.59	-0.78	-0.65	3.831	2.231	5.757	2.433	Lrrc32	-	-	-	--
+ENSMUSG00000091898	ID_762	7	0.00	-0.83	-10.17	-10.17	1.150	0.000	0.646	0.000	Tnnc1	Environmental Information Processing;Human Diseases;Organismal Systems;Human Diseases;Organismal Systems	Signal transduction;Cardiovascular disease;Circulatory system;Cardiovascular disease;Circulatory system	K05865;K05865;K05865;K05865;K05865	--
+ENSMUSG00000093661	ID_763	7	0.00	0.38	-0.79	-0.55	4.616	2.666	5.990	3.161	Eif4e3	-	-	-	--
+ENSMUSG00000094484	ID_764	7	0.00	-0.77	-2.66	-2.02	1.587	0.251	0.928	0.392	Gm21244	-	-	-	--
+ENSMUSG00000094793	ID_765	7	0.00	-0.13	-2.32	-2.79	15.340	3.078	14.031	2.215	Mup12	-	-	-	--
+ENSMUSG00000095630	ID_766	7	0.00	1.85	-1.73	-1.85	0.817	0.246	2.946	0.227	Igkv6-23	-	-	-	--
+ENSMUSG00000096472	ID_767	7	0.00	-0.18	-1.30	-1.36	4.079	1.655	3.601	1.588	Cdkn2d	Environmental Information Processing;Cellular Processes	Signal transduction;Cell growth and death	K06623;K06623	--
+ENSMUSG00000096687	ID_768	7	0.00	0.31	-0.93	-0.66	1.090	0.571	1.353	0.688	Mfsd4b4	-	-	-	--
+ENSMUSG00000097789	ID_769	7	0.00	-0.45	-6.23	-6.23	0.075	0.000	0.055	0.000	Ctxnd1	-	-	-	--
+ENSMUSG00000098176	ID_770	7	0.00	0.11	-1.31	-1.09	1.387	0.561	1.498	0.651	Ccdc166	-	-	-	--
+ENSMUSG00000098188	ID_771	7	0.00	-0.27	-0.94	-1.06	1.631	0.849	1.351	0.784	Sowahc	-	-	-	--
+ENSMUSG00000098789	ID_772	7	0.00	-0.81	-2.17	-1.88	2.052	0.457	1.168	0.559	Jmjd7	-	-	-	--
+ENSMUSG00000098905	ID_773	7	0.00	-0.36	-1.01	-0.96	0.661	0.329	0.515	0.340	Zfp953	Human Diseases	Infectious disease: viral	K09228	zf-C2H2
+ENSMUSG00000100586	ID_774	7	0.00	0.10	-2.75	-2.85	0.094	0.014	0.101	0.013	Vmn1r90	-	-	-	--
+ENSMUSG00000105340	ID_775	7	0.00	0.17	-6.93	-6.93	0.122	0.000	0.137	0.000	Gm42878	Environmental Information Processing	Signal transduction	K04442	--
+ENSMUSG00000109061	ID_776	7	0.00	0.31	-1.36	-1.59	0.376	0.146	0.466	0.125	Gm49320	Human Diseases;Human Diseases;Human Diseases;Human Diseases;Environmental Information Processing;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Genetic Information Processing;Cellular Processes;Human Diseases;Human Diseases;Human Diseases;Organismal Systems;Organismal Systems;Organismal Systems;Environmental Information Processing;Organismal Systems;Organismal Systems;Organismal Systems;Organismal Systems;Environmental Information Processing;Environmental Information Processing;Cellular Processes;Organismal Systems	Neurodegenerative disease;Neurodegenerative disease;Infectious disease: viral;Neurodegenerative disease;Signal transduction;Infectious disease: bacterial;Infectious disease: bacterial;Infectious disease: viral;Cancer: overview;Infectious disease: viral;Cardiovascular disease;Immune system;Folding, sorting and degradation;Cellular community - eukaryotes;Infectious disease: viral;Cardiovascular disease;Endocrine and metabolic disease;Endocrine system;Development and regeneration;Nervous system;Signal transduction;Immune system;Immune system;Development and regeneration;Endocrine system;Signal transduction;Signal transduction;Cell growth and death;Immune system	K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431;K04431	--
+ENSMUSG00000109350	ID_777	7	0.00	0.11	-1.48	-0.92	33.113	11.838	35.628	17.479	Apoc2l	Organismal Systems	Digestive system	K22287	--
+ENSMUSG00000109378	ID_778	7	0.00	-0.55	-2.93	-1.82	0.859	0.113	0.586	0.244	Gm49396	Human Diseases;Genetic Information Processing	Infectious disease: bacterial;Transcription	K12836;K12836	--
+ENSMUSG00000110439	ID_779	7	0.00	-0.06	-1.07	-0.75	23230.919	11029.483	22355.474	13836.056	Mup22	-	-	-	--
+ENSMUSG00000112023	ID_780	7	0.00	0.39	-2.32	-2.61	1.412	0.283	1.847	0.232	Lilrb4b	Organismal Systems;Organismal Systems	Immune system;Development and regeneration	K06512;K06512	--
+ENSMUSG00000112129	ID_781	7	0.00	0.42	-0.84	-0.44	99.297	55.580	132.809	73.021	Pbld1	-	-	-	--
+ENSMUSG00000114470	ID_782	7	0.00	0.00	-10.50	-10.50	1.450	0.000	1.455	0.000	Gm49395	-	-	-	--
+ENSMUSG00000116461	ID_783	7	0.00	0.53	-2.67	-2.14	1.283	0.201	1.856	0.291	Gm44502	Metabolism;Human Diseases;Metabolism	Global and overview maps;Cancer: overview;Lipid metabolism	K14156;K14156;K14156	--
+ENSMUSG00000117789	ID_784	7	0.00	-0.06	-7.29	-7.29	0.156	0.000	0.150	0.000	Gm50388	Metabolism;Metabolism	Global and overview maps;Glycan biosynthesis and metabolism	K21032;K21032	--
+ENSMUSG00000118516	ID_785	7	0.00	1.04	-0.95	-1.17	22.806	11.773	47.024	10.112	Cyp2d13	Organismal Systems;Metabolism	Nervous system;Lipid metabolism	K07414;K07414	--
+ENSMUSG00000118669	ID_786	7	0.00	-0.31	-1.35	-1.14	6.986	2.733	5.628	3.175	Arvcf	-	-	-	--
+ENSMUSG00002076083	ID_787	7	0.00	-0.63	-2.17	-2.11	5.392	1.195	3.485	1.251	Klhl17	-	-	-	--
